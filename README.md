@@ -18,10 +18,12 @@ Source: https://www.nba.com/article/2017/04/12/blogtable-what-criteria-matters-m
 ### Data Sources:
 
 Web Scrape data for Win Shares
-- Scrape data for 2015-2019 seasons and 2019-2020 season: www.basketball-reference.com
+* Scrape data for 2015-2019 seasons and 2019-2020 season: www.basketball-reference.com
+  * Scrape historical data first using "Scraping Historical NBA Data.ipynb" jupyter notebook
+  * Latest data for 2020 season is scraped in the other jupyter notebook with the machine learning predictions
 
 Data for NBA Fantasy
-- Download data from Rotoguru website: www.rotoguru.net
+* Download data from Rotoguru website: www.rotoguru.net
 
 ## Technologies used:
 ```
