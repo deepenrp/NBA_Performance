@@ -23,11 +23,6 @@ Web Scrape data for Win Shares
 Data for NBA Fantasy
 - Download data from Rotoguru website: www.rotoguru.net
 
-# NBA Fantasy
--
-
-
-# Win Shares
 ## Technologies used:
 ```
 Scikit Learn
@@ -38,7 +33,7 @@ Plotly - Install in Python environment using “pip install plotly==4.5.0”
 
 ```
 
-## Data Clean Up Process:
+# Win Shares
 
 #### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
@@ -70,6 +65,10 @@ Plotly - Install in Python environment using “pip install plotly==4.5.0”
   * Prediction All-Star Players
     * Players with top 10 win shares are predicted All-Star players
     * Compare the prediction All-Star Players and actual All-Star Players that played on 2/16/2020
+
+
+# NBA Fantasy
+-
 
 #### Challenges/Limitations:
   * Using more historical data to train was a challenge 
