@@ -84,7 +84,15 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 
 # NBA Fantasy
--
+#### Data Collection:
+    * 2019-2020 Seasons
+    
+#### Supervised Machine Learning Model
+  * Training and Testing using scikit learn module
+    * ElasticNet module
+    * Check Fan Duel Predictions(FDP) values against the actual
+    * Compare the prediction of FDP predictions and actual FDP that players played on First______ 
+
 
 #### Challenges/Limitations:
   * Using more historical data to train was a challenge 
@@ -100,4 +108,4 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
   * Dan
   * Deepen
   * Pratikchhya
-  * Pavana
+  * Pavana Srinivasa
