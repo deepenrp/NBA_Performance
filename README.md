@@ -72,6 +72,17 @@ Plotly - Install in Python environment using “pip install plotly==4.5.0”
     * Compare the prediction All-Star Players and actual All-Star Players that played on 2/16/2020
 
 #### Challenges/Limitations:
-  * 
+  * Using more historical data to train was a challenge 
+  * The actual All-Star players may be selected based on some emotional bias than the statistics
 
   
+#### Next Steps:
+  * Creating and launching a webapp to visualize predictions would be helpful for end users to use the insights
+  
+    
+#### Contributors:
+  * Sai
+  * Dan
+  * Deepen
+  * Pratikchhya
+  * Pavana
