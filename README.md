@@ -1,10 +1,10 @@
 # NBA Performance
 
-How do we measure which player is better than the next or better question how do we measure how much overall success a player brings to their team as this will determine which player will eventually win the most valuable player award at the end of the season?
+How do we measure which player is better than the next? Or better question is how do we measure the overall success a player brings to their team? This will determine which player will eventually win the most valuable player award at the end of the season or make it to the All-Star team?
 
-According to Basketball-Reference, win shares is a metric that estimates the number of wins a player produces for his team throughout the season. We believe win shares is a very good indicator but how do we predict win shares and what is it based on - Personal Success or basic stats – ex: number of points you score, assist or rebound? Advances Stats – ex: how well you contribute to the team? Or rather a combination of basic and advanced metrics?
+According to Basketball-Reference, win shares is a metric that estimates the number of wins a player produces for his team throughout the season. We believe win shares is a very good indicator but how do we predict win shares and what is it based on - Personal Success? Or Basic stats like number of points you score, assist or rebound? Or Advances Stats like how well you contribute to the team? Or rather a combination of Basic and Advanced metrics?
 
-What criteria matters most in making your MVP decision? Answers by some of nba sports writers/analyst
+What criteria matters most in making your MVP decision? Answers by some of NBA sports writers/analyst?
   - Steve Aschburner: The MVP is the best player on the team with the best record.
   - Fran Blinebury: Consistent individual excellence combined with team leadership and more than a few moments of transcendent brilliance.
   - John Schuhmann: My vote went to the individual who had the biggest effect on why a good team was good.
@@ -46,6 +46,17 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
       * Advanced Stats
       * Merge them into one
       * Ran up to date data for current season 
+    * Beautiful Soup was used to scrape the data. The links for basic stats and advanced stats are different. The code below shows how the links are being called to scrape for each year:
+    ```
+    adv_url = "https://www.basketball-reference.com/leagues/NBA_{}_advanced.html".format(year)
+    adv_html = urlopen(adv_url)
+    soup_av = BeautifulSoup(adv_html)
+    
+    pg_url = "https://www.basketball-reference.com/leagues/NBA_{}_per_game.html".format(year)
+    pg_html = urlopen(pg_url)
+    soup_pg = BeautifulSoup(pg_html)
+    ```
+     
 
 #### Feature Selection:
 
