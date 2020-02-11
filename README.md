@@ -28,8 +28,8 @@ Data for NBA Fantasy
 Scikit Learn
 Pandas
 Matplotlib
-Seaborn
-Plotly - Install in Python environment using “pip install plotly==4.5.0”
+Seaborn - Install in Python environment using "pip install seaborn"
+Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 ```
 
