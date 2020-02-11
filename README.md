@@ -17,34 +17,40 @@ Source: https://www.nba.com/article/2017/04/12/blogtable-what-criteria-matters-m
 
 ### Data Sources:
 
-Web Scrape 
-- Scrape data for 2018-2019 and 2019-2020 season: https://www.basketball-reference.com/
+Web Scrape data for Win Shares
+- Scrape data for 2015-2019 seasons and 2019-2020 season: www.basketball-reference.com
 
-NBA Fantasy
+Data for NBA Fantasy
+- Download data from Rotoguru website: www.rotoguru.net
+
+# NBA Fantasy
 -
 
 
+# Win Shares
 ## Technologies used:
 ```
+Scikit Learn
 Pandas
 Matplotlib
 Seaborn
-Sklearn
-Plotly
+Plotly - Install in Python environment using “pip install plotly==4.5.0”
+
 ```
 
 ## Data Clean Up Process:
 
 #### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
-    * 2018-2019
+    * 2015-2019 Seasons
+      * Basic Stats
+      * Advanced Stats
+      * Merge them into one and save as CSV
+    * 2019-2020 Season
       * Basic Stats
       * Advanced Stats
       * Merge them into one
-    * 2019-2020
-      * Basic Stats
-      * Advanced Stats
-      * Merge them into one
+      * Ran up to date data for current season 
 
 #### Feature Selection:
 
@@ -54,10 +60,15 @@ Plotly
       * Create a Heatmap
 
 #### Supervised Machine Learning Model
-  * Training and Validation
+  * Training and Validation using scikit learn module
     * Train –
-      * Year 2018-2019
+      * Year 2015-2019
       * Multi-Linear Regression
     * Validate/Test –
       * Year 2019-2020 (Current Season)
       * Check our predicted win shares values against the actual
+  * Prediction All-Star Players
+    * Players with top 10 win shares are predicted All-Star players
+    * Compare the prediction All-Star Players and actual All-Star Players that played on 2/16/2020
+    
+
