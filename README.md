@@ -35,7 +35,7 @@ Plotly
 
 ## Data Clean Up Process:
 
-Data Collection:
+#### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
     * 2018-2019
       * Basic Stats
@@ -46,14 +46,14 @@ Data Collection:
       * Advanced Stats
       * Merge them into one
 
-Feature Selection:
+#### Feature Selection:
 
   * Find the most important feature(s) to be used for the model
     * Random Forest Regression
     * Correlation Matrix (Pearson R-Square Correlation)
       * Create a Heatmap
 
-Supervised Machine Learning Model
+#### Supervised Machine Learning Model
   * Training and Validation
     * Train –
       * Year 2018-2019
