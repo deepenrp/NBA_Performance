@@ -90,8 +90,14 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 #### Supervised Machine Learning Model
   * Training and Testing using scikit learn module
     * ElasticNet module
-    * Check Fan Duel Predictions(FDP) values against the actual
-    * Compare the prediction of FDP predictions and actual FDP that players played on First______ 
+  * Predictions
+    * Fan Duel Prediction
+    * Blocks
+    * Steal
+    * Point
+    * Rebound
+    * Turnover
+    
 
 
 #### Challenges/Limitations:
