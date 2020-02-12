@@ -32,27 +32,11 @@ Pandas
 Matplotlib
 Seaborn - Install in Python environment using "pip install seaborn"
 Plotly - Install in Python environment using "pip install plotly==4.5.0"
+Pulp
 
 ```
 
 # Step 1: Win Shares
-
-### All the packages needed for this project
-```
-from pandas import DataFrame
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sb
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn import linear_model
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
-import plotly.graph_objects as go
-```
 
 #### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
@@ -61,7 +45,7 @@ import plotly.graph_objects as go
       * Advanced Stats
       * Merge them into one and save as CSV
       
-      ![distribution.png](Images/distribution.png)
+      ![distribution.png](distribution.png)
       
     * 2019-2020 Season
       * Basic Stats
@@ -127,8 +111,9 @@ import plotly.graph_objects as go
 
 
 # Step 2: NBA Fantasy
+Fantasy Basketball is a fun game to play during the basketball season.Every fantasy basketball league is different. We focused on Fan Duel, and getting predictions for its Stats. Our aim was to create the fantasy team with best possible player for each position. Using Stats like FDP,Blocks,Steals,Points,Rebound,Trunover,Assists etc., We tried predicting best player based on each positions.
+
 #### Data Collection:
-    * http://rotoguru1.com/hoop/nba-dhd-2020
     * 2019-2020 Seasons
     
 #### Supervised Machine Learning Model
