@@ -113,6 +113,8 @@ Pulp
 # Step 2: NBA Fantasy
 Fantasy Basketball is a fun game to play during the basketball season.Every fantasy basketball league is different. We focused on Fan Duel, and getting predictions for its Stats. Our aim was to create the fantasy team with best possible player for each position. Using Stats like FDP,Blocks,Steals,Points,Rebound,Trunover,Assists etc., We tried predicting best player based on each positions.
 
+ ![FDP.png](FDP.png)
+
 #### Data Collection:
     * 2019-2020 Seasons
     
