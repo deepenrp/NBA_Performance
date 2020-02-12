@@ -62,7 +62,7 @@ Pulp
     pg_html = urlopen(pg_url)
     soup_pg = BeautifulSoup(pg_html)
     ```
-     
+  * After data collection, run the machine learning models in the "NBA MVP-All-Star - Final-Copy.ipynb" jupyter notebook. 
 
 #### Feature Selection:
 
