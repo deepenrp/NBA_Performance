@@ -95,6 +95,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
       * Create a Heatmap
 
 #### Supervised Machine Learning Model
+  * Perform supervised regression ML analysis to predict win shares of all the current players (2019-2020):
   * Training and Validation using scikit learn module
     * Train –
       * Year 2015-2019
@@ -102,9 +103,10 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
     * Validate/Test –
       * Year 2019-2020 (Current Season)
       * Check our predicted win shares values against the actual
+      * The player with most win shares will eventually win MVP at the end of the season
   * Prediction All-Star Players
-    * Players with top 10 win shares are predicted All-Star players
-    * Compare the prediction All-Star Players and actual All-Star Players that played on 2/16/2020
+    * Players with top 10 Win shares will be All-star starters
+    * Compare the predicted all-star starters with actual All-Star starters (All-star game - 2/16/2020)
 
 
 # NBA Fantasy
