@@ -37,7 +37,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 # Step 1: Win Shares
 
-# All the packages needed for this project
+### All the packages needed for this project
 ```
 from pandas import DataFrame
 import pandas as pd
