@@ -1,297 +1,226 @@
-﻿Name,Last,First,Player_Name,Starter,FD_Pts,FD_Sal,Pos,Team,H/A,Oppt,Team Score,Oppt Score,Minutes,Stat line,Date
-"Holiday, Jrue",Holiday,Jrue,Jrue Holiday,1,58.2,6800,SG,nor,A,ind,124,117,31.78,31pt 6rb 10as 3st 4to 4trey 10-22fg 7-8ft,20200208
-"Murray, Jamal",Murray,Jamal,Jamal Murray,1,50.5,6400,PG,den,A,pho,117,108,35.27,36pt 5rb 5as 1st 1bl 5to 6trey 14-17fg 2-3ft,20200208
-"Murray, Dejounte",Murray,Dejounte,Dejounte Murray,1,50.3,4900,PG,sas,A,sac,102,122,27.9,17pt 9rb 9as 3st 2trey 6-11fg 3-4ft,20200208
-"Hield, Buddy",Hield,Buddy,Buddy Hield,,49.7,5400,SG,sac,H,sas,122,102,31.9,31pt 6rb 5as 2st 2to 9trey 11-17fg,20200208
-"LeVert, Caris",LeVert,Caris,Caris LeVert,1,48.6,5300,SG,bkn,A,tor,118,119,33.22,37pt 3rb 4as 1st 1to 6trey 12-18fg 7-7ft,20200208
-"Middleton, Khris",Middleton,Khris,Khris Middleton,1,48.6,7400,SG,mil,A,orl,112,95,31.68,21pt 13rb 6as 2st 3to 3trey 8-15fg 2-2ft,20200208
-"Graham, Devonte'",Graham,Devonte',Devonte' Graham,1,47.8,6800,SG,cha,H,dal,100,116,35.22,26pt 4rb 10as 1st 1to 3trey 10-20fg 3-3ft,20200208
-"Dinwiddie, Spencer",Dinwiddie,Spencer,Spencer Dinwiddie,1,47.7,6400,PG,bkn,A,tor,118,119,36.37,21pt 6rb 11as 1st 2trey 8-17fg 3-4ft,20200208
-"McLaughlin, Jordan",McLaughlin,Jordan,Jordan McLaughlin,1,45.3,4100,PG,min,H,lac,142,115,36.98,24pt 4rb 11as 2trey 11-15fg,20200208
-"Curry, Seth",Curry,Seth,Seth Curry,,43.7,4300,PG,dal,A,cha,116,100,27.52,26pt 6rb 3as 1st 1bl 6trey 10-14fg,20200208
-"Beasley, Malik",Beasley,Malik,Malik Beasley,1,43,4000,SG,min,H,lac,142,115,28.85,23pt 10rb 4as 1st 1to 7trey 8-19fg,20200208
-"Lamb, Jeremy",Lamb,Jeremy,Jeremy Lamb,1,40,4100,SG,ind,H,nor,117,124,34.75,26pt 5rb 4as 1st 1to 3trey 9-13fg 5-5ft,20200208
-"Redick, J.J.",Redick,J.J.,J.J. Redick,,39.8,3900,SG,nor,A,ind,124,117,27.5,23pt 4rb 4as 1st 1bl 3trey 7-15fg 6-6ft,20200208
-"Booker, Devin",Booker,Devin,Devin Booker,1,39.1,7800,SG,pho,H,den,108,117,36.77,21pt 3rb 9as 1st 2to 3trey 5-16fg 8-8ft,20200208
-"VanVleet, Fred",VanVleet,Fred,Fred VanVleet,1,37.4,6500,SG,tor,H,bkn,119,118,33.03,29pt 2rb 6as 3to 4trey 11-20fg 3-3ft,20200208
-"Jackson, Reggie",Jackson,Reggie,Reggie Jackson,1,36.9,6000,PG,det,H,nyk,92,95,31.38,20pt 2rb 9as 1st 2to 3trey 7-17fg 3-4ft,20200208
-"Payton, Elfrid",Payton,Elfrid,Elfrid Payton,1,36.8,7000,PG,nyk,A,det,95,92,29.68,10pt 9rb 6as 2st 1bl 2to 4-11fg 2-4ft,20200208
-"Bledsoe, Eric",Bledsoe,Eric,Eric Bledsoe,1,35.8,6300,PG,mil,A,orl,112,95,31.9,18pt 4rb 8as 1st 1bl 5to 7-16fg 4-4ft,20200208
-"Bradley, Avery",Bradley,Avery,Avery Bradley,1,33.8,3600,SG,lal,A,gsw,125,120,30.4,21pt 4rb 2as 2st 1to 5trey 7-11fg 2-2ft,20200208
-"Brogdon, Malcolm",Brogdon,Malcolm,Malcolm Brogdon,1,33.6,6700,PG,ind,H,nor,117,124,30.6,17pt 8rb 6as 2to 2trey 6-14fg 3-3ft,20200208
-"Thomas, Matt",Thomas,Matt,Matt Thomas,,32.7,3500,SG,tor,H,bkn,119,118,22.28,15pt 6rb 1as 3st 3trey 6-9fg,20200208
-"Davis, Terence",Davis,Terence,Terence Davis,1,32.1,4000,SG,tor,H,bkn,119,118,30.2,20pt 8rb 1as 1st 2to 5trey 7-15fg 1-1ft,20200208
-"Ball, Lonzo",Ball,Lonzo,Lonzo Ball,1,31.5,6500,PG,nor,A,ind,124,117,38.72,15pt 5rb 7as 1st 3to 1trey 7-12fg,20200208
-"Forbes, Bryn",Forbes,Bryn,Bryn Forbes,1,29.2,3700,SG,sas,A,sac,102,122,27.65,16pt 1rb 4as 2st 4trey 6-11fg,20200208
-"Carter-Williams, Michael",Carter-Williams,Michael,Michael Carter-Williams,,28.8,4500,PG,orl,H,mil,95,112,22.85,6pt 4rb 6as 2st 1bl 3-6fg,20200208
-"Fultz, Markelle",Fultz,Markelle,Markelle Fultz,1,28.6,5700,PG,orl,H,mil,95,112,31.12,15pt 3rb 2as 3st 2to 3trey 6-18fg,20200208
-"Poole, Jordan",Poole,Jordan,Jordan Poole,,27.9,4100,SG,gsw,H,lal,120,125,22.8,19pt 2rb 3as 1st 1to 3trey 8-12fg,20200208
-"Rozier, Terry",Rozier,Terry,Terry Rozier,1,27.7,6000,PG,cha,H,dal,100,116,31.55,15pt 6rb 1as 2bl 2to 3trey 6-15fg,20200208
-"Rubio, Ricky",Rubio,Ricky,Ricky Rubio,1,27.5,5200,PG,pho,H,den,108,117,31.67,15pt 5rb 7as 4to 4-10fg 7-7ft,20200208
-"Ellington, Wayne",Ellington,Wayne,Wayne Ellington,,27.5,3500,SG,nyk,A,det,95,92,26.83,17pt 5rb 3as 3trey 6-12fg 2-2ft,20200208
-"Ross, Terrence",Ross,Terrence,Terrence Ross,,27.3,4700,SG,orl,H,mil,95,112,31.27,20pt 4rb 3as 2to 1trey 7-14fg 5-6ft,20200208
-"Fournier, Evan",Fournier,Evan,Evan Fournier,1,26.6,5300,SG,orl,H,mil,95,112,33.88,14pt 3rb 4as 2st 3to 4trey 5-14fg,20200208
-"Bowman, Ky",Bowman,Ky,Ky Bowman,1,24.9,3600,PG,gsw,H,lal,120,125,29.12,7pt 2rb 11as 1bl 4to 1-6fg 5-6ft,20200208
-"Harris, Gary",Harris,Gary,Gary Harris,1,24.9,4000,SG,den,A,pho,117,108,36.42,10pt 7rb 1as 2st 1to 4-11fg 2-2ft,20200208
-"Brown, Bruce",Brown,Bruce,Bruce Brown,1,24.1,4900,SG,det,H,nyk,92,95,34.98,11pt 3rb 1as 1st 2bl 1to 1trey 3-8fg 4-4ft,20200208
-"DeRozan, DeMar",DeRozan,DeMar,DeMar DeRozan,1,23.6,7700,SG,sas,A,sac,102,122,29.72,14pt 3rb 6as 3to 5-10fg 4-5ft,20200208
-"Bullock, Reggie",Bullock,Reggie,Reggie Bullock,1,23.3,3800,SG,nyk,A,det,95,92,27.42,8pt 4rb 5as 1st 2trey 2-5fg 2-2ft,20200208
-"Williams, Louis",Williams,Louis,Louis Williams,,22.7,5400,SG,lac,A,min,115,142,26.15,11pt 6rb 5as 3to 4-10fg 3-3ft,20200208
-"Monk, Malik",Monk,Malik,Malik Monk,,22.4,4700,SG,cha,H,dal,100,116,28.37,19pt 2rb 2as 2to 3trey 8-13fg,20200208
-"Morris, Monte",Morris,Monte,Monte Morris,,21.7,5000,PG,den,A,pho,117,108,26.7,11pt 1rb 5as 1st 1to 1trey 4-9fg 2-3ft,20200208
-"Lee, Damion",Lee,Damion,Damion Lee,1,21.6,4500,SG,gsw,H,lal,120,125,22.38,8pt 3rb 2as 3st 2to 2trey 3-8fg,20200208
-"Matthews, Wes",Matthews,Wes,Wes Matthews,1,21,3700,SG,mil,A,orl,112,95,33.23,12pt 5rb 1bl 4trey 4-10fg,20200208
-"Fox, De'Aaron",Fox,De'Aaron,De'Aaron Fox,1,20.9,8300,PG,sac,H,sas,122,102,25.97,13pt 2rb 5as 2to 5-9fg 3-4ft,20200208
-"Brunson, Jalen",Brunson,Jalen,Jalen Brunson,1,20.8,5400,PG,dal,A,cha,116,100,27.27,13pt 4rb 4as 3to 3trey 4-11fg 2-2ft,20200208
-"Hart, Josh",Hart,Josh,Josh Hart,1,18.9,5000,SG,nor,A,ind,124,117,29.73,9pt 7rb 1as 3trey 3-9fg,20200208
-"Rondo, Rajon",Rondo,Rajon,Rajon Rondo,,17.8,4400,PG,lal,A,gsw,125,120,21.17,11pt 4rb 4as 4to 3trey 4-8fg,20200208
-"White, Derrick",White,Derrick,Derrick White,,17.7,4500,PG,sas,A,sac,102,122,24.98,13pt 1rb 3as 1to 1trey 6-13fg,20200208
-"Temple, Garrett",Temple,Garrett,Garrett Temple,,16.4,4300,SG,bkn,A,tor,118,119,22.8,5pt 2rb 4as 1bl 1trey 1-5fg 2-2ft,20200208
-"Lee, Courtney",Lee,Courtney,Courtney Lee,,15.5,3500,SG,dal,A,cha,116,100,16.48,5pt 1as 2st 1bl 1trey 2-5fg,20200208
-"Jackson, Frank",Jackson,Frank,Frank Jackson,,15.3,3500,PG,nor,A,ind,124,117,21.98,9pt 4rb 1as 1st 3to 1trey 2-6fg 4-4ft,20200208
-"Wright, Delon",Wright,Delon,Delon Wright,,14.9,4600,SG,dal,A,cha,116,100,24.1,4pt 2rb 7as 2to 2-6fg,20200208
-"Korver, Kyle",Korver,Kyle,Kyle Korver,,14.8,3500,SG,mil,A,orl,112,95,15.42,8pt 4rb 1bl 1to 2trey 3-8fg,20200208
-"Mann, Terance",Mann,Terance,Terance Mann,,14.7,3500,SG,lac,A,min,115,142,15.18,3pt 1rb 5as 1st 1trey 1-2fg,20200208
-"Shamet, Landry",Shamet,Landry,Landry Shamet,1,14,4400,PG,lac,A,min,115,142,28.83,5pt 2as 1st 1bl 1trey 1-4fg 2-2ft,20200208
-"McGruder, Rodney",McGruder,Rodney,Rodney McGruder,,14,3500,SG,lac,A,min,115,142,25.73,3pt 5rb 2as 1st 1to 1-4fg 1-3ft,20200208
-"DiVincenzo, Donte",DiVincenzo,Donte,Donte DiVincenzo,,13.8,4500,SG,mil,A,orl,112,95,26.45,4pt 4rb 2as 1st 1to 2-6fg,20200208
-"Snell, Tony",Snell,Tony,Tony Snell,1,13.5,3700,SG,det,H,nyk,92,95,34.38,12pt 3as 3to 2trey 5-8fg,20200208
-"Craig, Torrey",Craig,Torrey,Torrey Craig,1,13.1,4000,SG,den,A,pho,117,108,31.87,9pt 3rb 1as 1to 3trey 3-5fg,20200208
-"Green, Danny",Green,Danny,Danny Green,1,12.9,4200,SG,lal,A,gsw,125,120,29.47,10pt 2rb 1as 1to 2trey 3-6fg 2-2ft,20200208
-"Nowell, Jaylen",Nowell,Jaylen,Jaylen Nowell,,11.9,3500,PG,min,H,lac,142,115,11.02,5pt 2rb 3as 1trey 2-5fg,20200208
-"Walker, Lonnie",Walker,Lonnie,Lonnie Walker,,11.7,3500,SG,sas,A,sac,102,122,19.57,8pt 1rb 1as 1st 2to 3-8fg 2-3ft,20200208
-"Bogdanovic, Bogdan",Bogdanovic,Bogdan,Bogdan Bogdanovic,1,10.9,5200,SG,sac,H,sas,122,102,23.6,5pt 2rb 1as 1st 1to 1trey 2-9fg,20200208
-"McConnell, T.J.",McConnell,T.J.,T.J. McConnell,,10.7,3900,PG,ind,H,nor,117,124,17.4,6pt 1rb 3as 1st 4to 3-7fg,20200208
-"McCaw, Patrick",McCaw,Patrick,Patrick McCaw,,9.9,3500,SG,tor,H,bkn,119,118,18.87,3pt 2rb 3as 1trey 1-3fg,20200208
-"Joseph, Cory",Joseph,Cory,Cory Joseph,,8.7,3700,PG,sac,H,sas,122,102,24.47,4pt 1rb 3as 1to 2-4fg,20200208
-"Smith Jr., Dennis",Smith Jr.,Dennis,Dennis Smith Jr.,,8.3,3700,PG,nyk,A,det,95,92,18.32,4pt 4rb 1as 2to 2-6fg,20200208
-"Dozier, PJ",Dozier,PJ,PJ Dozier,,8,3600,SG,den,A,pho,117,108,13.75,2pt 2bl 1-5fg,20200208
-"Barrett, RJ",Barrett,RJ,RJ Barrett,1,7.4,4900,SG,nyk,A,det,95,92,21.02,3pt 2rb 2as 1to 1-8fg 1-2ft,20200208
-"Carter, Jevon",Carter,Jevon,Jevon Carter,,7.4,3500,PG,pho,H,den,108,117,10.53,2pt 2rb 1bl 1-3fg,20200208
-"Galloway, Langston",Galloway,Langston,Langston Galloway,,7.4,3900,SG,det,H,nyk,92,95,31.48,6pt 2rb 1to 2trey 2-6fg,20200208
-"Okobo, Elie",Okobo,Elie,Elie Okobo,,7,3500,SG,pho,H,den,108,117,14.1,2pt 2as 1st 1to 1-2fg,20200208
-"Ferrell, Yogi",Ferrell,Yogi,Yogi Ferrell,,7,3500,PG,sac,H,sas,122,102,6.75,4pt 1bl 1trey 1-3fg 1-2ft,20200208
-"Luwawu, Timothe",Luwawu,Timothe,Timothe Luwawu,,6.8,3800,SG,bkn,A,tor,118,119,15.37,3pt 4rb 1to 1trey 1-8fg,20200208
-"Connaughton, Pat",Connaughton,Pat,Pat Connaughton,,6.8,3600,SG,mil,A,orl,112,95,13.62,3pt 4rb 1to 1trey 1-2fg,20200208
-"Caruso, Alex",Caruso,Alex,Alex Caruso,,6.6,3500,PG,lal,A,gsw,125,120,6.85,0pt 3rb 1st 0-2fg,20200208
-"Bone, Jordan",Bone,Jordan,Jordan Bone,,6.5,3500,PG,det,H,nyk,92,95,11.88,2pt 3as 1-3fg,20200208
-"Crabbe, Allen",Crabbe,Allen,Allen Crabbe,,6,3500,SG,min,H,lac,142,115,17.02,3pt 2as 1trey 1-2fg,20200208
-"Ntilikina, Frank",Ntilikina,Frank,Frank Ntilikina,,5.9,3500,PG,nyk,A,det,95,92,13.95,2pt 2rb 1as 1-1fg,20200208
-"Sumner, Edmond",Sumner,Edmond,Edmond Sumner,,5.4,3500,PG,ind,H,nor,117,124,7.77,0pt 2rb 1st,20200208
-"Daniels, Troy",Daniels,Troy,Troy Daniels,,5.2,3500,SG,lal,A,gsw,125,120,16.85,4pt 1rb 1trey 1-3fg 1-2ft,20200208
-"Holiday, Aaron",Holiday,Aaron,Aaron Holiday,,5,3800,PG,ind,H,nor,117,124,7.57,2pt 2as 1-5fg,20200208
-"Caldwell-Pope, Kentavious",Caldwell-Pope,Kentavious,Kentavious Caldwell-Pope,,3.5,3700,SG,lal,A,gsw,125,120,3.52,2pt 1as 1-2fg,20200208
-"Mills, Patty",Mills,Patty,Patty Mills,,3.2,3900,PG,sas,A,sac,102,122,16.77,2pt 1rb 1-2fg,20200208
-"James, Justin",James,Justin,Justin James,,2,3500,SG,sac,H,sas,122,102,1.38,2pt 1-1fg,20200208
-"Evans III, Jacob",Evans III,Jacob,Jacob Evans III,,0,3800,SG,min,H,lac,142,115,1.1,0pt,20200208
-"Cleveland, Antonius",Cleveland,Antonius,Antonius Cleveland,,0,3500,SG,dal,A,cha,116,100,2.4,0pt 0-1fg,20200208
-"Weatherspoon, Quinndary",Weatherspoon,Quinndary,Quinndary Weatherspoon,,0,3500,SG,sas,A,sac,102,122,3.58,0pt 0-1fg,20200208
-"Cook, Quinn",Cook,Quinn,Quinn Cook,,0,3500,PG,lal,A,gsw,125,120,DNP,,20200208
-"Alexander-Walker, Nickeil",Alexander-Walker,Nickeil,Nickeil Alexander-Walker,,0,3500,SG,nor,A,ind,124,117,DNP,,20200208
-"Bacon, Dwayne",Bacon,Dwayne,Dwayne Bacon,,0,3500,SG,cha,H,dal,100,116,DNP,,20200208
-"Dotson, Damyean",Dotson,Damyean,Damyean Dotson,,0,3500,SG,nyk,A,det,95,92,DNP,,20200208
-"Belinelli, Marco",Belinelli,Marco,Marco Belinelli,,0,3500,SG,sas,A,sac,102,122,DNP,,20200208
-"Rose, Derrick",Rose,Derrick,Derrick Rose,,0,6900,PG,det,H,nyk,92,95,DNP,,20200208
-"Chiozza, Chris",Chiozza,Chris,Chris Chiozza,,0,3500,PG,bkn,A,tor,118,119,DNP,,20200208
-"Jerome, Ty",Jerome,Ty,Ty Jerome,,0,3600,SG,pho,H,den,108,117,DNP,,20200208
-"Barea, Jose",Barea,Jose,Jose Barea,,0,3800,PG,dal,A,cha,116,100,DNP,,20200208
-"McRae, Jordan",McRae,Jordan,Jordan McRae,,0,4600,SG,den,A,pho,117,108,DNP,,20200208
-"Brown, Sterling",Brown,Sterling,Sterling Brown,,0,3500,SG,mil,A,orl,112,95,DNP,,20200208
-"Watson, Paul",Watson,Paul,Paul Watson,,0,3500,SG,tor,H,bkn,119,118,DNP,,20200208
-"Mykhailiuk, Sviatoslav",Mykhailiuk,Sviatoslav,Sviatoslav Mykhailiuk,,0,3900,SG,det,H,nyk,92,95,DNP,,20200208
-"Knight, Brandon",Knight,Brandon,Brandon Knight,,0,3500,PG,det,H,nyk,92,95,DNP,,20200208
-"Augustin, D.J.",Augustin,D.J.,D.J. Augustin,,0,4200,PG,orl,H,mil,95,112,NA,,20200208
-"Mason III, Frank",Mason III,Frank,Frank Mason III,,0,3500,PG,mil,A,orl,112,95,NA,,20200208
-"Irving, Kyrie",Irving,Kyrie,Kyrie Irving,,0,8900,PG,bkn,A,tor,118,119,NA,,20200208
-"Reynolds, Cameron",Reynolds,Cameron,Cameron Reynolds,,0,3500,SG,mil,A,orl,112,95,NA,,20200208
-"Bowen II, Brian",Bowen II,Brian,Brian Bowen II,,0,3500,SG,ind,H,nor,117,124,NA,,20200208
-"Oladipo, Victor",Oladipo,Victor,Victor Oladipo,,0,5100,SG,ind,H,nor,117,124,NA,,20200208
-"Hill, George",Hill,George,George Hill,,0,3500,PG,mil,A,orl,112,95,NA,,20200208
-"Gray, Josh",Gray,Josh,Josh Gray,,0,3500,PG,nor,A,ind,124,117,NA,,20200208
-"Martin, Jeremiah",Martin,Jeremiah,Jeremiah Martin,,0,3500,PG,bkn,A,tor,118,119,NA,,20200208
-"Russell, D'Angelo",Russell,D'Angelo,D'Angelo Russell,,0,7600,SG,min,H,lac,142,115,NA,,20200208
-"Mitrou-Long, Nazareth",Mitrou-Long,Nazareth,Nazareth Mitrou-Long,,0,3600,SG,ind,H,nor,117,124,NA,,20200208
-"Lecque, Jalen",Lecque,Jalen,Jalen Lecque,,0,3500,PG,pho,H,den,108,117,NA,,20200208
-"Johnson, Tyler",Johnson,Tyler,Tyler Johnson,,0,3500,PG,pho,H,den,108,117,NA,,20200208
-"Allen, Kadeem",Allen,Kadeem,Kadeem Allen,,0,3500,SG,nyk,A,det,95,92,NA,,20200208
-"Harper, Jared",Harper,Jared,Jared Harper,,0,3500,PG,pho,H,den,108,117,NA,,20200208
-"Curry, Stephen",Curry,Stephen,Stephen Curry,,0,3500,PG,gsw,H,lal,120,125,NA,,20200208
-"Trier, Allonzo",Trier,Allonzo,Allonzo Trier,,0,3500,SG,nyk,A,det,95,92,NA,,20200208
-"Beverley, Patrick",Beverley,Patrick,Patrick Beverley,,0,4800,PG,lac,A,min,115,142,NA,,20200208
-"Horton-Tucker, Talen",Horton-Tucker,Talen,Talen Horton-Tucker,,0,3500,SG,lal,A,gsw,125,120,NA,,20200208
-"Thomas, Khyri",Thomas,Khyri,Khyri Thomas,,0,3500,SG,det,H,nyk,92,95,NA,,20200208
-"Reaves, Josh",Reaves,Josh,Josh Reaves,,0,3500,SG,dal,A,cha,116,100,NA,,20200208
-"Lowry, Kyle",Lowry,Kyle,Kyle Lowry,,0,7500,PG,tor,H,bkn,119,118,NA,,20200208
-"Guy, Kyle",Guy,Kyle,Kyle Guy,,0,3500,SG,sac,H,sas,122,102,NA,,20200208
-"Powell, Norman",Powell,Norman,Norman Powell,,0,4300,SG,tor,H,bkn,119,118,NA,,20200208
-"Pinson, Theo",Pinson,Theo,Theo Pinson,,0,3500,SG,bkn,A,tor,118,119,NA,,20200208
-"Turner, Evan",Turner,Evan,Evan Turner,,0,3500,SG,min,H,lac,142,115,NA,,20200208
-"Doncic, Luka",Doncic,Luka,Luka Doncic,,0,10100,PG,dal,A,cha,116,100,NA,,20200208
-"Simmons, Kobi",Simmons,Kobi,Kobi Simmons,,0,3500,PG,cha,H,dal,100,116,NA,,20200208
-"Martin, Cody",Martin,Cody,Cody Martin,,0,3600,SG,cha,H,dal,100,116,NA,,20200208
-"Antetokounmpo, Giannis",Antetokounmpo,Giannis,Giannis Antetokounmpo,1,55.1,11500,SF,mil,A,orl,112,95,33.58,19pt 18rb 9as 2bl 5to 6-17fg 7-8ft,20200208
-"Davis, Anthony",Davis,Anthony,Anthony Davis,1,55,10400,PF,lal,A,gsw,125,120,35.17,27pt 10rb 4as 3st 1bl 2to 9-14fg 9-13ft,20200208
-"Wiggins, Andrew",Wiggins,Andrew,Andrew Wiggins,1,44.9,7100,SF,gsw,H,lal,120,125,30.9,24pt 2rb 3as 5st 1bl 4to 3trey 8-12fg 5-9ft,20200208
-"James, LeBron",James,LeBron,LeBron James,1,44.1,10800,SF,lal,A,gsw,125,120,33.57,22pt 8rb 11as 1st 7to 3trey 7-17fg 5-6ft,20200208
-"George, Paul",George,Paul,Paul George,1,41,8400,SF,lac,A,min,115,142,25.97,21pt 5rb 2as 3st 2bl 4to 1trey 8-20fg 4-4ft,20200208
-"Wood, Christian",Wood,Christian,Christian Wood,1,39.2,7300,PF,det,H,nyk,92,95,36.67,17pt 11rb 2as 1st 2bl 3to 3trey 6-13fg 2-4ft,20200208
-"Leonard, Kawhi",Leonard,Kawhi,Kawhi Leonard,1,38.7,9800,PF,lac,A,min,115,142,27.6,29pt 6rb 3as 2to 3trey 8-17fg 10-11ft,20200208
-"Barnes, Harrison",Barnes,Harrison,Harrison Barnes,1,38.4,4700,SF,sac,H,sas,122,102,38.05,25pt 7rb 4as 1to 2trey 9-13fg 5-5ft,20200208
-"Sabonis, Domantas",Sabonis,Domantas,Domantas Sabonis,1,37.6,8100,PF,ind,H,nor,117,124,33.62,16pt 8rb 6as 2bl 3to 1trey 7-12fg 1-2ft,20200208
-"Siakam, Pascal",Siakam,Pascal,Pascal Siakam,1,37.4,8500,SF,tor,H,bkn,119,118,33.6,20pt 7rb 4as 1bl 9-22fg 2-4ft,20200208
-"Warren, T.J.",Warren,T.J.,T.J. Warren,1,35.8,5600,SF,ind,H,nor,117,124,35.27,22pt 4rb 1st 2bl 9-12fg 4-8ft,20200208
-"Bjelica, Nemanja",Bjelica,Nemanja,Nemanja Bjelica,1,35.2,5200,PF,sac,H,sas,122,102,32.22,15pt 6rb 4as 2st 1bl 2to 3trey 6-10fg,20200208
-"Johnson, James",Johnson,James,James Johnson,,32.1,3500,PF,min,H,lac,142,115,20.27,15pt 3rb 5as 2st 1bl 3to 2trey 6-9fg 1-2ft,20200208
-"Aldridge, LaMarcus",Aldridge,LaMarcus,LaMarcus Aldridge,1,32,6800,PF,sas,A,sac,102,122,34.2,12pt 10rb 1st 3bl 4to 5-10fg 2-4ft,20200208
-"Randle, Julius",Randle,Julius,Julius Randle,1,31.9,8000,PF,nyk,A,det,95,92,34.15,17pt 7rb 3as 1st 1bl 4to 1trey 7-17fg 2-3ft,20200208
-"Oubre, Kelly",Oubre,Kelly,Kelly Oubre,1,31.7,6600,SF,pho,H,den,108,117,42.15,20pt 6rb 1as 1bl 3trey 7-19fg 3-3ft,20200208
-"Millsap, Paul",Millsap,Paul,Paul Millsap,,31.2,4800,PF,den,A,pho,117,108,17.87,12pt 11rb 4as 1trey 5-9fg 1-4ft,20200208
-"Gordon, Aaron",Gordon,Aaron,Aaron Gordon,1,28.3,6500,PF,orl,H,mil,95,112,32.18,7pt 9rb 5as 1st 2-12fg 3-4ft,20200208
-"Favors, Derrick",Favors,Derrick,Derrick Favors,1,28.2,5200,PF,nor,A,ind,124,117,24.47,15pt 11rb 2as 3to 6-8fg 3-4ft,20200208
-"Kuzma, Kyle",Kuzma,Kyle,Kyle Kuzma,,27.4,4500,PF,lal,A,gsw,125,120,29.4,12pt 2rb 6as 3st 5to 4-8fg 4-4ft,20200208
-"Prince, Taurean",Prince,Taurean,Taurean Prince,1,26.4,4700,SF,bkn,A,tor,118,119,27.42,17pt 2rb 2as 1st 1bl 2to 4trey 6-16fg 1-2ft,20200208
-"Reid, Naz",Reid,Naz,Naz Reid,,25.3,3500,PF,min,H,lac,142,115,13.8,14pt 9rb 1as 1to 4trey 5-13fg,20200208
-"Ibaka, Serge",Ibaka,Serge,Serge Ibaka,1,25.2,6300,PF,tor,H,bkn,119,118,31.97,12pt 6rb 2as 1bl 1trey 5-9fg 1-2ft,20200208
-"Broekhoff, Ryan",Broekhoff,Ryan,Ryan Broekhoff,,24.8,3500,PF,dal,A,cha,116,100,15.77,6pt 9rb 4as 1st 1to 2trey 2-6fg,20200208
-"Bazemore, Kent",Bazemore,Kent,Kent Bazemore,,24.6,3700,SF,sac,H,sas,122,102,26.78,15pt 3rb 2as 1st 3trey 5-12fg 2-6ft,20200208
-"Bridges, Miles",Bridges,Miles,Miles Bridges,1,24.6,6100,SF,cha,H,dal,100,116,35.6,20pt 3rb 1st 2to 2trey 8-15fg 2-3ft,20200208
-"Hardaway Jr., Tim",Hardaway Jr.,Tim,Tim Hardaway Jr.,1,23.9,4900,SF,dal,A,cha,116,100,26.1,14pt 2rb 5as 3trey 5-11fg 1-1ft,20200208
-"Johnson, Cameron",Johnson,Cameron,Cameron Johnson,,23.9,3500,SF,pho,H,den,108,117,23.57,11pt 2rb 3as 1st 1bl 2trey 3-8fg 3-3ft,20200208
-"Giles, Harry",Giles,Harry,Harry Giles,1,22.9,4000,PF,sac,H,sas,122,102,27.5,8pt 12rb 1as 1to 3-8fg 2-3ft,20200208
-"Grant, Jerami",Grant,Jerami,Jerami Grant,1,22.9,6200,PF,den,A,pho,117,108,30.1,10pt 2rb 1as 2st 1bl 4-6fg 2-2ft,20200208
-"Washington, P.J.",Washington,P.J.,P.J. Washington,1,22.8,4800,PF,cha,H,dal,100,116,29.17,7pt 9rb 1st 1bl 1to 3-11fg 1-2ft,20200208
-"Hernangomez, Juan",Hernangomez,Juan,Juan Hernangomez,1,22.7,3700,SF,min,H,lac,142,115,26.58,14pt 1rb 3as 1st 3trey 4-6fg 3-4ft,20200208
-"Harris, Joe",Harris,Joe,Joe Harris,1,22.4,5200,SF,bkn,A,tor,118,119,32.63,11pt 7rb 2as 1trey 5-9fg,20200208
-"Boucher, Chris",Boucher,Chris,Chris Boucher,,22,3800,PF,tor,H,bkn,119,118,16.03,9pt 5rb 3bl 2to 2-5fg 5-5ft,20200208
-"Okogie, Josh",Okogie,Josh,Josh Okogie,1,21.4,4500,PF,min,H,lac,142,115,23.87,15pt 2rb 2st 2to 2trey 3-5fg 7-8ft,20200208
-"Melli, Nicolo",Melli,Nicolo,Nicolo Melli,1,20.7,3600,PF,nor,A,ind,124,117,23.85,9pt 6rb 1as 1bl 3trey 3-8fg,20200208
-"Kleber, Maxi",Kleber,Maxi,Maxi Kleber,1,20.5,4500,PF,dal,A,cha,116,100,27.5,7pt 5rb 1as 2bl 1trey 1-5fg 4-4ft,20200208
-"Finney-Smith, Dorian",Finney-Smith,Dorian,Dorian Finney-Smith,1,19.9,4800,SF,dal,A,cha,116,100,31.53,13pt 2rb 3as 1st 3to 1trey 6-10fg,20200208
-"Hollis-Jefferson, Rondae",Hollis-Jefferson,Rondae,Rondae Hollis-Jefferson,,17.9,3700,PF,tor,H,bkn,119,118,16.78,5pt 7rb 3as 2-6fg 1-2ft,20200208
-"Paschall, Eric",Paschall,Eric,Eric Paschall,1,17.8,4200,PF,gsw,H,lal,120,125,27.92,6pt 4rb 2as 1st 1bl 2to 3-11fg,20200208
-"Smailagic, Alen",Smailagic,Alen,Alen Smailagic,,17.7,3500,PF,gsw,H,lal,120,125,14.08,10pt 1rb 1as 1st 1bl 1to 1trey 3-5fg 3-4ft,20200208
-"Anunoby, OG",Anunoby,OG,OG Anunoby,1,17.3,3800,SF,tor,H,bkn,119,118,28.85,5pt 4rb 1as 2st 2-4fg 1-2ft,20200208
-"Bridges, Mikal",Bridges,Mikal,Mikal Bridges,1,16.1,4900,SF,pho,H,den,108,117,33.88,9pt 3rb 1as 1st 1to 1trey 4-7fg,20200208
-"Clark, Gary",Clark,Gary,Gary Clark,,15.8,3500,PF,orl,H,mil,95,112,15.82,8pt 4rb 1bl 2trey 2-3fg 2-2ft,20200208
-"Motley, Johnathan",Motley,Johnathan,Johnathan Motley,,15.1,3500,PF,lac,A,min,115,142,10.4,10pt 3rb 1as 4-5fg 2-3ft,20200208
-"Chandler, Wilson",Chandler,Wilson,Wilson Chandler,,14.9,3600,SF,bkn,A,tor,118,119,24.2,6pt 2rb 3as 1st 1to 1trey 1-7fg 3-3ft,20200208
-"Gibson, Taj",Gibson,Taj,Taj Gibson,1,13.8,3600,PF,nyk,A,det,95,92,13.2,11pt 4rb 2to 5-7fg 1-2ft,20200208
-"Iwundu, Wes",Iwundu,Wes,Wes Iwundu,1,13.1,3500,SF,orl,H,mil,95,112,23.35,2pt 3rb 1as 2st 1-6fg,20200208
-"Green, JaMychal",Green,JaMychal,JaMychal Green,,13.1,3600,PF,lac,A,min,115,142,18.93,3pt 3rb 1as 2st 1to 1trey 1-3fg,20200208
-"Culver, Jarrett",Culver,Jarrett,Jarrett Culver,,12.9,4200,SF,min,H,lac,142,115,23.03,5pt 2rb 1as 1st 1bl 2to 1trey 2-7fg,20200208
-"Allen, Jarrett",Allen,Jarrett,Jarrett Allen,1,12.2,5900,PF,bkn,A,tor,118,119,19.35,3pt 6rb 1st 1to 1-2fg 1-2ft,20200208
-"Kabengele, Mfiondu",Kabengele,Mfiondu,Mfiondu Kabengele,,11.9,3500,SF,lac,A,min,115,142,10.4,5pt 2rb 1as 1bl 1trey 2-4fg,20200208
-"Moore, E'Twaun",Moore,E'Twaun,E'Twaun Moore,,11.8,3500,SF,nor,A,ind,124,117,22.9,7pt 4rb 3-8fg 1-2ft,20200208
-"Gay, Rudy",Gay,Rudy,Rudy Gay,,11.4,3500,SF,sas,A,sac,102,122,21.97,5pt 7rb 2to 2-4fg 1-1ft,20200208
-"Toscano-Anderson, Juan",Toscano-Anderson,Juan,Juan Toscano-Anderson,,10.6,3500,SF,gsw,H,lal,120,125,19.45,5pt 3rb 2as 1to 1trey 2-6fg,20200208
-"Holiday, Justin",Holiday,Justin,Justin Holiday,,10.2,4700,SF,ind,H,nor,117,124,22.05,7pt 1rb 1st 1to 1trey 2-6fg 2-2ft,20200208
-"McDaniels, Jalen",McDaniels,Jalen,Jalen McDaniels,,9.4,3500,PF,cha,H,dal,100,116,18.58,5pt 2rb 1st 1to 2-4fg 1-1ft,20200208
-"Knox, Kevin",Knox,Kevin,Kevin Knox,,9.2,3500,SF,nyk,A,det,95,92,18.12,5pt 1rb 1bl 1trey 2-4fg,20200208
-"McDermott, Doug",McDermott,Doug,Doug McDermott,,9,3700,SF,ind,H,nor,117,124,16.62,9pt 1trey 4-9fg 0-1ft,20200208
-"Lyles, Trey",Lyles,Trey,Trey Lyles,1,8.6,3500,PF,sas,A,sac,102,122,17.83,5pt 3rb 2-5fg 1-1ft,20200208
-"Doumbouya, Sekou",Doumbouya,Sekou,Sekou Doumbouya,,8.6,3700,PF,det,H,nyk,92,95,12.72,5pt 3rb 1st 3to 1trey 1-3fg 2-2ft,20200208
-"Coffey, Amir",Coffey,Amir,Amir Coffey,,7.9,3500,PF,lac,A,min,115,142,10.4,4pt 2rb 1as 2-6fg,20200208
-"Ilyasova, Ersan",Ilyasova,Ersan,Ersan Ilyasova,,7.6,3500,PF,mil,A,orl,112,95,12.65,4pt 3rb 2-3fg,20200208
-"Bates-Diop, Keita",Bates-Diop,Keita,Keita Bates-Diop,,6.4,3500,SF,den,A,pho,117,108,14.1,4pt 2rb 1-1fg 2-2ft,20200208
-"Martin, Caleb",Martin,Caleb,Caleb Martin,,6.3,3500,SF,cha,H,dal,100,116,22.92,0pt 4rb 1as 0-1fg,20200208
-"Patterson, Patrick",Patterson,Patrick,Patrick Patterson,1,4.4,3500,PF,lac,A,min,115,142,7.42,3pt 2rb 1to 1trey 1-2fg,20200208
-"Brissett, Oshae",Brissett,Oshae,Oshae Brissett,,3.7,3500,SF,tor,H,bkn,119,118,8.38,1pt 1rb 1as 0-2fg 1-2ft,20200208
-"Jackson, Justin",Jackson,Justin,Justin Jackson,,2,3500,SF,dal,A,cha,116,100,3.37,2pt 1-4fg,20200208
-"Martin, Kelan",Martin,Kelan,Kelan Martin,,2,3600,SF,min,H,lac,142,115,2.18,2pt 1-1fg,20200208
-"Diallo, Cheick",Diallo,Cheick,Cheick Diallo,,1.2,3500,PF,pho,H,den,108,117,4.9,0pt 1rb 0-1fg,20200208
-"Frazier, Melvin",Frazier,Melvin,Melvin Frazier,,0,3500,SF,orl,H,mil,95,112,0.77,0pt,20200208
-"Vanderbilt, Jarred",Vanderbilt,Jarred,Jarred Vanderbilt,,0,3500,SF,min,H,lac,142,115,1.1,0pt,20200208
-"Law, Vic",Law,Vic,Vic Law,,0,3500,SF,orl,H,mil,95,112,0.77,0pt 0-1fg,20200208
-"Jeffries, DaQuan",Jeffries,DaQuan,DaQuan Jeffries,,0,3500,SF,sac,H,sas,122,102,1.38,0pt,20200208
-"King, Louis",King,Louis,Louis King,,0,3500,SF,det,H,nyk,92,95,DNP,,20200208
-"Antetokounmpo, Thanasis",Antetokounmpo,Thanasis,Thanasis Antetokounmpo,,0,3500,SF,mil,A,orl,112,95,DNP,,20200208
-"Leaf, TJ",Leaf,TJ,TJ Leaf,,0,3500,PF,ind,H,nor,117,124,DNP,,20200208
-"Kurucs, Rodions",Kurucs,Rodions,Rodions Kurucs,,0,3700,PF,bkn,A,tor,118,119,DNP,,20200208
-"Tolliver, Anthony",Tolliver,Anthony,Anthony Tolliver,,0,3500,PF,sac,H,sas,122,102,DNP,,20200208
-"Ingram, Brandon",Ingram,Brandon,Brandon Ingram,,0,8200,SF,nor,A,ind,124,117,DNP,,20200208
-"Wilson, D.J.",Wilson,D.J.,D.J. Wilson,,0,3500,PF,mil,A,orl,112,95,DNP,,20200208
-"Vonleh, Noah",Vonleh,Noah,Noah Vonleh,,0,3500,PF,den,A,pho,117,108,DNP,,20200208
-"Williamson, Zion",Williamson,Zion,Zion Williamson,,0,7200,PF,nor,A,ind,124,117,DNP,,20200208
-"Johnson, Stanley",Johnson,Stanley,Stanley Johnson,,0,3500,SF,tor,H,bkn,119,118,DNP,,20200208
-"Harkless, Maurice",Harkless,Maurice,Maurice Harkless,,0,3600,SF,nyk,A,det,95,92,DNP,,20200208
-"Sampson, JaKarr",Sampson,JaKarr,JaKarr Sampson,,0,3500,SF,ind,H,nor,117,124,DNP,,20200208
-"Birch, Khem",Birch,Khem,Khem Birch,,0,3500,PF,orl,H,mil,95,112,DNP,,20200208
-"Cancar, Vlatko",Cancar,Vlatko,Vlatko Cancar,,0,3500,SF,den,A,pho,117,108,DNP,,20200208
-"Claxton, Nicolas",Claxton,Nicolas,Nicolas Claxton,,0,3800,PF,bkn,A,tor,118,119,DNP,,20200208
-"Musa, Dzanan",Musa,Dzanan,Dzanan Musa,,0,3500,SF,bkn,A,tor,118,119,DNP,,20200208
-"Green, Draymond",Green,Draymond,Draymond Green,,0,6200,PF,gsw,H,lal,120,125,DNP,,20200208
-"Saric, Dario",Saric,Dario,Dario Saric,,0,4000,PF,pho,H,den,108,117,DNP,,20200208
-"Dudley, Jared",Dudley,Jared,Jared Dudley,,0,3500,SF,lal,A,gsw,125,120,DNP,,20200208
-"Miller, Malcolm",Miller,Malcolm,Malcolm Miller,,0,3500,PF,tor,H,bkn,119,118,DNP,,20200208
-"Antetokounmpo, Kostas",Antetokounmpo,Kostas,Kostas Antetokounmpo,,0,3500,PF,lal,A,gsw,125,120,NA,,20200208
-"Layman, Jake",Layman,Jake,Jake Layman,,0,3500,SF,min,H,lac,142,115,NA,,20200208
-"Williams, Kenrich",Williams,Kenrich,Kenrich Williams,,0,3500,SF,nor,A,ind,124,117,NA,,20200208
-"Bagley, Marvin",Bagley,Marvin,Marvin Bagley,,0,5200,PF,sac,H,sas,122,102,NA,,20200208
-"Spalding, Ray",Spalding,Ray,Ray Spalding,,0,3500,PF,cha,H,dal,100,116,NA,,20200208
-"Batum, Nicolas",Batum,Nicolas,Nicolas Batum,,0,3600,SF,cha,H,dal,100,116,NA,,20200208
-"Morris, Markieff",Morris,Markieff,Markieff Morris,,0,4400,SF,det,H,nyk,92,95,NA,,20200208
-"Bender, Dragan",Bender,Dragan,Dragan Bender,,0,3500,PF,mil,A,orl,112,95,NA,,20200208
-"Ennis, James",Ennis,James,James Ennis,,0,3500,SF,orl,H,mil,95,112,NA,,20200208
-"Wooten, Kenny",Wooten,Kenny,Kenny Wooten,,0,3500,PF,nyk,A,det,95,92,NA,,20200208
-"Hernandez, Dewan",Hernandez,Dewan,Dewan Hernandez,,0,3500,PF,tor,H,bkn,119,118,NA,,20200208
-"Aminu, Al-Farouq",Aminu,Al-Farouq,Al-Farouq Aminu,,0,3500,PF,orl,H,mil,95,112,NA,,20200208
-"Kaminsky, Frank",Kaminsky,Frank,Frank Kaminsky,,0,3500,PF,pho,H,den,108,117,NA,,20200208
-"Samanic, Luka",Samanic,Luka,Luka Samanic,,0,3500,PF,sas,A,sac,102,122,NA,,20200208
-"Porter, Michael",Porter,Michael,Michael Porter,,0,4900,PF,den,A,pho,117,108,NA,,20200208
-"Griffin, Blake",Griffin,Blake,Blake Griffin,,0,3500,PF,det,H,nyk,92,95,NA,,20200208
-"Morris, Marcus",Morris,Marcus,Marcus Morris,,0,6200,SF,lac,A,min,115,142,NA,,20200208
-"Johnson, B.J.",Johnson,B.J.,B.J. Johnson,,0,3500,SF,orl,H,mil,95,112,NA,,20200208
-"Johnson, Keldon",Johnson,Keldon,Keldon Johnson,,0,3500,SF,sas,A,sac,102,122,NA,,20200208
-"Porzingis, Kristaps",Porzingis,Kristaps,Kristaps Porzingis,,0,9600,PF,dal,A,cha,116,100,NA,,20200208
-"Barton, Will",Barton,Will,Will Barton,,0,6300,SF,den,A,pho,117,108,NA,,20200208
-"Holmes, Richaun",Holmes,Richaun,Richaun Holmes,,0,5600,PF,sac,H,sas,122,102,NA,,20200208
-"Cacok, Devontae",Cacok,Devontae,Devontae Cacok,,0,3500,PF,lal,A,gsw,125,120,NA,,20200208
-"Isaac, Jonathan",Isaac,Jonathan,Jonathan Isaac,,0,3500,SF,orl,H,mil,95,112,NA,,20200208
-"Cheatham, Zylan",Cheatham,Zylan,Zylan Cheatham,,0,3500,PF,nor,A,ind,124,117,NA,,20200208
-"Kennard, Luke",Kennard,Luke,Luke Kennard,,0,4200,SF,det,H,nyk,92,95,NA,,20200208
-"Carroll, DeMarre",Carroll,DeMarre,DeMarre Carroll,,0,3500,SF,sas,A,sac,102,122,NA,,20200208
-"Johnson, Alize",Johnson,Alize,Alize Johnson,,0,3700,PF,ind,H,nor,117,124,NA,,20200208
-"Miller, Darius",Miller,Darius,Darius Miller,,0,3500,SF,nor,A,ind,124,117,NA,,20200208
-"Parker, Jabari",Parker,Jabari,Jabari Parker,,0,3600,PF,sac,H,sas,122,102,NA,,20200208
-"Brazdeikis, Ignas",Brazdeikis,Ignas,Ignas Brazdeikis,,0,3500,SF,nyk,A,det,95,92,NA,,20200208
-"Spellman, Omari",Spellman,Omari,Omari Spellman,,0,3500,PF,min,H,lac,142,115,NA,,20200208
-"Ayton, Deandre",Ayton,Deandre,Deandre Ayton,1,60.8,9200,C,pho,H,den,108,117,42.43,28pt 19rb 2as 3st 1bl 5to 13-21fg 2-2ft,20200208
-"Towns, Karl-Anthony",Towns,Karl-Anthony,Karl-Anthony Towns,1,54.1,10000,C,min,H,lac,142,115,34.2,22pt 13rb 9as 1st 1bl 3to 3trey 9-13fg 1-4ft,20200208
-"Vucevic, Nikola",Vucevic,Nikola,Nikola Vucevic,1,50.8,7900,C,orl,H,mil,95,112,34.95,21pt 14rb 6as 2bl 2to 10-20fg 1-2ft,20200208
-"Jokic, Nikola",Jokic,Nikola,Nikola Jokic,1,48.8,11700,C,den,A,pho,117,108,33.93,23pt 9rb 6as 1st 3bl 6to 9-19fg 5-5ft,20200208
-"Chriss, Marquese",Chriss,Marquese,Marquese Chriss,1,47.3,5100,C,gsw,H,lal,120,125,27.32,26pt 9rb 1as 1st 2bl 1trey 12-15fg 1-1ft,20200208
-"Jordan, DeAndre",Jordan,DeAndre,DeAndre Jordan,,39.3,4800,C,bkn,A,tor,118,119,28.65,15pt 14rb 1as 3bl 3to 6-10fg 3-4ft,20200208
-"Turner, Myles",Turner,Myles,Myles Turner,1,37.6,5400,C,ind,H,nor,117,124,32.22,10pt 8rb 4as 5bl 3to 1trey 2-4fg 5-6ft,20200208
-"Cauley-Stein, Willie",Cauley-Stein,Willie,Willie Cauley-Stein,1,34.5,3700,C,dal,A,cha,116,100,25.05,15pt 10rb 1as 2bl 7-7fg 1-1ft,20200208
-"Lopez, Brook",Lopez,Brook,Brook Lopez,1,31.7,5500,C,mil,A,orl,112,95,31.7,23pt 6rb 1as 5trey 9-13fg 0-2ft,20200208
-"Robinson, Mitchell",Robinson,Mitchell,Mitchell Robinson,,23,5000,C,nyk,A,det,95,92,19.08,7pt 5rb 1st 3bl 2to 3-4fg 1-2ft,20200208
-"Howard, Dwight",Howard,Dwight,Dwight Howard,,20.6,4400,C,lal,A,gsw,125,120,12.65,12pt 8rb 1to 5-7fg 2-5ft,20200208
-"Maker, Thon",Maker,Thon,Thon Maker,1,20.6,4100,C,det,H,nyk,92,95,28.98,7pt 3rb 2as 3bl 2to 1trey 3-5fg 0-2ft,20200208
-"Henson, John",Henson,John,John Henson,,20.3,4000,C,det,H,nyk,92,95,17.52,12pt 4rb 1as 1st 1to 6-6fg,20200208
-"Zeller, Cody",Zeller,Cody,Cody Zeller,1,19.6,4600,C,cha,H,dal,100,116,21.03,5pt 8rb 1st 1bl 1to 1-7fg 3-4ft,20200208
-"Portis, Bobby",Portis,Bobby,Bobby Portis,,18.3,3600,C,nyk,A,det,95,92,18.23,11pt 4rb 3as 2to 1trey 5-10fg,20200208
-"Marjanovic, Boban",Marjanovic,Boban,Boban Marjanovic,,17.2,3500,C,dal,A,cha,116,100,12.92,11pt 6rb 1to 4-7fg 3-3ft,20200208
-"Okafor, Jahlil",Okafor,Jahlil,Jahlil Okafor,,16.3,3500,C,nor,A,ind,124,117,10.2,4pt 4rb 1as 2st 2-4fg 0-1ft,20200208
-"Zubac, Ivica",Zubac,Ivica,Ivica Zubac,1,16.1,5200,C,lac,A,min,115,142,16.38,7pt 8rb 1as 2to 3-4fg 1-2ft,20200208
-"Poeltl, Jakob",Poeltl,Jakob,Jakob Poeltl,,14.8,4000,C,sas,A,sac,102,122,12.25,8pt 4rb 1bl 1to 4-5fg,20200208
-"Harrell, Montrezl",Harrell,Montrezl,Montrezl Harrell,,14.2,5800,C,lac,A,min,115,142,16.6,11pt 1rb 1bl 1to 5-6fg 1-1ft,20200208
-"McGee, JaVale",McGee,JaVale,JaVale McGee,1,13,3900,C,lal,A,gsw,125,120,20.97,4pt 5rb 1st 1bl 3to 2-4fg,20200208
-"Bamba, Mohamed",Bamba,Mohamed,Mohamed Bamba,,11.9,3600,C,orl,H,mil,95,112,13.05,2pt 2rb 1as 2bl 1-4fg,20200208
-"Biyombo, Bismack",Biyombo,Bismack,Bismack Biyombo,,5.7,3600,C,cha,H,dal,100,116,17.57,3pt 1rb 1as 0-1fg 3-5ft,20200208
-"Hayes, Jaxson",Hayes,Jaxson,Jaxson Hayes,,2.4,3500,C,nor,A,ind,124,117,8.87,2pt 2rb 2to 1-3fg,20200208
-"Eubanks, Drew",Eubanks,Drew,Drew Eubanks,,2.2,3500,C,sas,A,sac,102,122,3.58,2pt 1rb 1to 1-1fg,20200208
-"Looney, Kevon",Looney,Kevon,Kevon Looney,,2.2,3700,C,gsw,H,lal,120,125,14.42,2pt 1rb 1to 1-4fg 0-1ft,20200208
-"Bitadze, Goga",Bitadze,Goga,Goga Bitadze,,2,3500,C,ind,H,nor,117,124,2.15,2pt 1-1fg,20200208
-"Lopez, Robin",Lopez,Robin,Robin Lopez,,1.2,3500,C,mil,A,orl,112,95,9.77,0pt 1rb 0-3fg,20200208
-"Hernangomez, Guillermo",Hernangomez,Guillermo,Guillermo Hernangomez,,0,3900,C,cha,H,dal,100,116,DNP,,20200208
-"Plumlee, Mason",Plumlee,Mason,Mason Plumlee,,0,3800,C,den,A,pho,117,108,DNP,,20200208
-"Baynes, Aron",Baynes,Aron,Aron Baynes,,0,3800,C,pho,H,den,108,117,DNP,,20200208
-"Len, Alex",Len,Alex,Alex Len,,0,4300,C,sac,H,sas,122,102,NA,,20200208
-"Metu, Chimezie",Metu,Chimezie,Chimezie Metu,,0,3500,C,sas,A,sac,102,122,NA,,20200208
-"Powell, Dwight",Powell,Dwight,Dwight Powell,,0,3500,C,dal,A,cha,116,100,NA,,20200208
-"Owens, Tariq",Owens,Tariq,Tariq Owens,,0,3500,C,pho,H,den,108,117,NA,,20200208
-"Bol, Bol",Bol,Bol,Bol Bol,,0,3500,C,den,A,pho,117,108,NA,,20200208
-"Cousins, DeMarcus",Cousins,DeMarcus,DeMarcus Cousins,,0,3500,C,lal,A,gsw,125,120,NA,,20200208
-"Gasol, Marc",Gasol,Marc,Marc Gasol,,0,4600,C,tor,H,bkn,119,118,NA,,20200208
-"Norvell Jr., Zach",Norvell Jr.,Zach,Zach Norvell Jr.,,19.8,N/A,NA,gsw,H,lal,120,125,17.37,7pt 4rb 2as 2st 1to 2trey 2-4fg 1-1ft,20200208
-"Pargo, Jeremy",Pargo,Jeremy,Jeremy Pargo,1,13.5,N/A,NA,lal,H,v H,125,,1,,20200208
+﻿Name,Last,First,Player_Name,GID,Date,Starter,FD_Pts,FD_Sal,Pos,Team,H/A,Oppt,Team Score,Oppt Score,Minutes,Stat line
+Young Trae,Young,Trae,Trae Young,5708,20200209,1,67.7,"9,700",PG,atl,H,nyk,140,135,47.67,48pt 1rb 13as 2st 7to 6trey 13-30fg 16-16ft
+Harden James,Harden,James,James Harden,4224,20200209,1,63,"11,500",SG,hou,H,uta,113,114,38.82,28pt 10rb 10as 1st 2bl 1to 2trey 11-23fg 4-6ft
+Morant Ja,Morant,Ja,Ja Morant,5841,20200209,1,57,"6,200",PG,mem,A,was,106,99,35,27pt 10rb 10as 1st 1bl 3to 2trey 9-17fg 7-9ft
+Westbrook Russell,Westbrook,Russell,Russell Westbrook,4079,20200209,1,55.2,"10,100",PG,hou,H,uta,113,114,37.7,39pt 6rb 4as 1st 1bl 3to 1trey 18-33fg 2-4ft
+Lillard Damian,Lillard,Damian,Damian Lillard,4523,20200209,1,52.8,"9,900",PG,por,H,mia,115,109,37.53,33pt 4rb 8as 1st 1bl 3to 6trey 11-23fg 5-6ft
+Simmons Ben,Simmons,Ben,Ben Simmons,4925,20200209,1,51,"8,800",PG,phi,H,chi,118,111,36.58,19pt 10rb 10as 4st 7to 6-13fg 7-10ft
+LaVine Zach,LaVine,Zach,Zach LaVine,4706,20200209,1,48.2,"8,000",SG,chi,A,phi,111,118,39.92,32pt 1rb 8as 3st 1bl 9to 5trey 11-21fg 5-6ft
+Korkmaz Furkan,Korkmaz,Furkan,Furkan Korkmaz,5157,20200209,,47,"3,800",SG,phi,H,chi,118,111,31.57,31pt 5rb 2as 3st 2to 6trey 12-17fg 1-1ft
+Dragic Goran,Dragic,Goran,Goran Dragic,4092,20200209,,43.3,"5,300",PG,mia,A,por,109,115,30.83,27pt 4rb 7as 1st 2to 5trey 8-20fg 6-7ft
+Beal Bradley,Beal,Bradley,Bradley Beal,4494,20200209,1,43.3,"10,300",SG,was,H,mem,99,106,34.03,26pt 4rb 3as 2st 1bl 1to 1trey 10-25fg 5-7ft
+Clarkson Jordan,Clarkson,Jordan,Jordan Clarkson,4668,20200209,,40.2,"4,200",SG,uta,A,hou,114,113,29,30pt 6rb 2as 3trey 12-19fg 3-3ft
+Williams Louis,Williams,Louis,Louis Williams,3816,20200209,1,39.5,"5,400",SG,lac,A,cle,133,92,26.15,25pt 5rb 3as 2st 2to 1trey 8-14fg 8-10ft
+Trent Jr. Gary,Trent,Jr. Gary,Jr. Gary Trent,5663,20200209,,38.8,"3,700",SG,por,H,mia,115,109,33.1,22pt 4rb 4st 5trey 8-11fg 1-1ft
+Paul Chris,Paul,Chris,Chris Paul,3786,20200209,1,38.5,"7,100",PG,okc,H,bos,111,112,32.85,22pt 5rb 5as 2st 3to 1trey 8-15fg 5-6ft
+Schroder Dennis,Schroder,Dennis,Dennis Schroder,4595,20200209,,36.9,"6,800",SG,okc,H,bos,111,112,36.42,22pt 7rb 1as 1st 1bl 1to 3trey 8-21fg 3-3ft
+Gilgeous-Alexander Shai,Gilgeous-Alexander,Shai,Shai Gilgeous-Alexander,5690,20200209,1,36.2,"7,900",SG,okc,H,bos,111,112,33.08,24pt 6rb 4as 1to 3trey 8-12fg 5-7ft
+Mitchell Donovan,Mitchell,Donovan,Donovan Mitchell,5136,20200209,1,36,"7,100",SG,uta,A,hou,114,113,36.55,24pt 5rb 6as 3to 4trey 9-23fg 2-2ft
+Payton Elfrid,Payton,Elfrid,Elfrid Payton,4699,20200209,1,35.3,"7,300",PG,nyk,A,atl,135,140,36.6,12pt 4rb 9as 2st 1bl 4to 5-14fg 2-2ft
+Conley Mike,Conley,Mike,Mike Conley,3979,20200209,1,33,"5,600",PG,uta,A,hou,114,113,33.63,20pt 5rb 6as 2to 2trey 8-16fg 2-3ft
+Robinson Duncan,Robinson,Duncan,Duncan Robinson,5681,20200209,1,32.7,"4,700",SG,mia,A,por,109,115,38.03,19pt 6rb 3as 1st 1to 6trey 6-15fg 1-1ft
+Walker Kemba,Walker,Kemba,Kemba Walker,4440,20200209,1,32.3,"7,200",PG,bos,A,okc,112,111,30.05,27pt 4rb 1as 1to 4trey 6-16fg 11-13ft
+Huerter Kevin,Huerter,Kevin,Kevin Huerter,5754,20200209,1,29.6,"5,000",SG,atl,H,nyk,140,135,47.63,16pt 3rb 6as 1bl 2to 2trey 6-13fg 2-2ft
+Bullock Reggie,Bullock,Reggie,Reggie Bullock,4654,20200209,1,29.3,"3,800",SG,nyk,A,atl,135,140,37.25,21pt 4rb 1as 1st 1to 5trey 8-18fg
+Ntilikina Frank,Ntilikina,Frank,Frank Ntilikina,5219,20200209,,28.4,"3,500",PG,nyk,A,atl,135,140,25.75,9pt 2rb 8as 2st 1to 3-8fg 3-4ft
+Satoransky Tomas,Satoransky,Tomas,Tomas Satoransky,4980,20200209,1,28.3,"5,200",PG,chi,A,phi,111,118,31.85,10pt 4rb 7as 1st 1trey 3-9fg 3-3ft
+Teague Jeff,Teague,Jeff,Jeff Teague,4221,20200209,,23.6,"4,000",PG,atl,H,nyk,140,135,27.42,8pt 3rb 6as 1st 4-8fg
+Shamet Landry,Shamet,Landry,Landry Shamet,5704,20200209,1,23.3,"4,400",PG,lac,A,cle,133,92,27.28,11pt 4rb 3as 1bl 3trey 4-9fg
+Ellington Wayne,Ellington,Wayne,Wayne Ellington,4185,20200209,,22.7,"3,500",SG,nyk,A,atl,135,140,31.7,15pt 1rb 1as 2st 1to 5trey 5-10fg
+McGruder Rodney,McGruder,Rodney,Rodney McGruder,4650,20200209,,21.8,"3,500",SG,lac,A,cle,133,92,22.08,8pt 4rb 4as 1st 4-6fg
+Smith Ishmael,Smith,Ishmael,Ishmael Smith,4315,20200209,1,21.3,"5,400",PG,was,H,mem,99,106,28.57,4pt 4rb 5as 1st 1bl 1to 2-8fg
+Sexton Collin,Sexton,Collin,Collin Sexton,5721,20200209,1,20.9,"6,200",PG,cle,H,lac,92,133,27.85,13pt 2rb 3as 1st 2to 1trey 4-13fg 4-4ft
+McLemore Ben,McLemore,Ben,Ben McLemore,4589,20200209,,20.1,"3,600",SG,hou,H,uta,113,114,27.33,9pt 3rb 1as 2st 3trey 3-5fg
+Smart Marcus,Smart,Marcus,Marcus Smart,4677,20200209,,20,"5,300",SG,bos,A,okc,112,111,22.35,7pt 2as 4st 2to 1trey 2-5fg 2-2ft
+Jones Tyus,Jones,Tyus,Tyus Jones,4876,20200209,,19.9,"4,600",PG,mem,A,was,106,99,19.15,13pt 2rb 3as 1trey 5-8fg 2-2ft
+McCollum C.J.,McCollum,C.J.,C.J. McCollum,4657,20200209,1,19.3,"6,700",SG,por,H,mia,115,109,39,13pt 4rb 3as 3to 3trey 5-15fg 0-1ft
+Iguodala Andre,Iguodala,Andre,Andre Iguodala,3641,20200209,,17.7,"4,200",SG,mia,A,por,109,115,22.75,2pt 6rb 3as 1st 1bl 2to 1-2fg
+Barrett RJ,Barrett,RJ,RJ Barrett,5878,20200209,1,17.3,"4,900",SG,nyk,A,atl,135,140,21.95,5pt 4rb 3as 1st 2-6fg 1-2ft
+White Coby,White,Coby,Coby White,5895,20200209,,16.7,"4,200",PG,chi,A,phi,111,118,26.2,6pt 6rb 3as 1to 3-10fg
+Napier Shabazz,Napier,Shabazz,Shabazz Napier,4694,20200209,,16.4,"5,800",PG,was,H,mem,99,106,20.95,6pt 2rb 6as 1to 0-7fg 6-6ft
+Garland Darius,Garland,Darius,Darius Garland,5860,20200209,1,16,"4,700",PG,cle,H,lac,92,133,28.45,6pt 6as 1st 2to 3-11fg
+Wanamaker Brad,Wanamaker,Brad,Brad Wanamaker,5659,20200209,,15.8,"3,900",PG,bos,A,okc,112,111,16.55,2pt 4rb 4as 1st 1-2fg
+Brooks Dillon,Brooks,Dillon,Dillon Brooks,5173,20200209,1,14.1,"5,500",SG,mem,A,was,106,99,30.3,9pt 3rb 1as 1st 3to 4-17fg 1-2ft
+Nunn Kendrick,Nunn,Kendrick,Kendrick Nunn,5671,20200209,1,14,"4,900",PG,mia,A,por,109,115,27.35,9pt 4as 1to 1trey 4-18fg
+Melton De'Anthony,Melton,De'Anthony,De'Anthony Melton,5742,20200209,,11.7,"4,900",PG,mem,A,was,106,99,20.62,7pt 1rb 1as 1st 1to 3-12fg 1-1ft
+Milton Shake,Milton,Shake,Shake Milton,5703,20200209,1,11.2,"4,000",PG,phi,H,chi,118,111,13.12,5pt 1rb 2as 1st 1to 1trey 2-5fg
+Harrison Shaquille,Harrison,Shaquille,Shaquille Harrison,5249,20200209,,11.2,"3,800",PG,chi,A,phi,111,118,7.03,5pt 1rb 1st 1bl 1to 2-3fg 1-1ft
+Robinson Jerome,Robinson,Jerome,Jerome Robinson,5691,20200209,,10.4,"3,500",PG,was,H,mem,99,106,15.82,5pt 2rb 2as 1trey 2-7fg
+Arcidiacono Ryan,Arcidiacono,Ryan,Ryan Arcidiacono,4962,20200209,,9.3,"3,500",PG,chi,A,phi,111,118,19.2,5pt 4rb 1as 2to 1trey 2-4fg
+Richardson Josh,Richardson,Josh,Josh Richardson,4788,20200209,,8,"4,300",SG,phi,H,chi,118,111,19.13,3pt 2as 1st 1to 1-2fg 1-4ft
+Mann Terance,Mann,Terance,Terance Mann,5856,20200209,,6.9,"3,500",SG,lac,A,cle,133,92,12,0pt 2rb 1as 1st 0-2fg
+Smith Jr. Dennis,Smith,Jr. Dennis,Jr. Dennis Smith,5212,20200209,,6.2,"4,000",PG,nyk,A,atl,135,140,7.82,2pt 1rb 2as 1-2fg
+Exum Dante,Exum,Dante,Dante Exum,4707,20200209,,6,"3,500",PG,cle,H,lac,92,133,8.43,0pt 2as 1st 0-1fg
+Graham Treveon,Graham,Treveon,Treveon Graham,4804,20200209,,4.2,"3,500",SG,atl,H,nyk,140,135,6.53,0pt 1rb 1st 0-3fg
+Dort Luguentz,Dort,Luguentz,Luguentz Dort,5916,20200209,1,4.2,"3,600",SG,okc,H,bos,111,112,11.72,3pt 1rb 1trey 1-4fg
+Ferguson Terrance,Ferguson,Terrance,Terrance Ferguson,5225,20200209,,3.9,"3,500",SG,okc,H,bos,111,112,26.3,0pt 2rb 1as 0-1fg
+Rivers Austin,Rivers,Austin,Austin Rivers,4483,20200209,,3.7,"4,000",PG,hou,H,uta,113,114,19.08,2pt 1rb 1as 1to 0-4fg 2-2ft
+Goodwin Brandon,Goodwin,Brandon,Brandon Goodwin,5727,20200209,,3,"4,100",PG,atl,H,nyk,140,135,4.38,3pt 1trey 1-3fg
+Diallo Hamidou,Diallo,Hamidou,Hamidou Diallo,5737,20200209,,2.2,"3,500",SG,okc,H,bos,111,112,12.5,2pt 1rb 1to 1-2fg
+Watanabe Yuta,Watanabe,Yuta,Yuta Watanabe,5753,20200209,,1.2,"3,500",SG,mem,A,was,106,99,10.13,0pt 1rb 0-1fg
+Langford Romeo,Langford,Romeo,Romeo Langford,5844,20200209,,0,"3,900",SG,bos,A,okc,112,111,5.5,0pt
+Burks Alec,Burks,Alec,Alec Burks,4441,20200209,,0,"4,100",SG,phi,H,chi,118,111,DNP,
+Simons Anfernee,Simons,Anfernee,Anfernee Simons,5662,20200209,,0,"3,500",PG,por,H,mia,115,109,DNP,
+Green Javonte,Green,Javonte,Javonte Green,5842,20200209,,0,"3,500",SG,bos,A,okc,112,111,DNP,
+Clemons Chris,Clemons,Chris,Chris Clemons,5797,20200209,,0,"3,500",PG,hou,H,uta,113,114,DNP,
+Tucker Rayjon,Tucker,Rayjon,Rayjon Tucker,5898,20200209,,0,"3,500",PG,uta,A,hou,114,113,DNP,
+Vincent Gabe,Vincent,Gabe,Gabe Vincent,5959,20200209,,0,"3,500",PG,mia,A,por,109,115,DNP,
+Burton Deonte,Burton,Deonte,Deonte Burton,5752,20200209,,0,"3,500",SG,okc,H,bos,111,112,DNP,
+Dotson Damyean,Dotson,Damyean,Damyean Dotson,5222,20200209,,0,"3,500",SG,nyk,A,atl,135,140,DNP,
+Neto Raul,Neto,Raul,Raul Neto,4807,20200209,,0,"3,500",PG,phi,H,chi,118,111,DNP,
+Oni Miye,Oni,Miye,Miye Oni,5836,20200209,,0,"3,500",SG,uta,A,hou,114,113,DNP,
+Mokoka Adam,Mokoka,Adam,Adam Mokoka,5893,20200209,,0,"3,500",SG,chi,A,phi,111,118,DNP,
+Guduric Marko,Guduric,Marko,Marko Guduric,5838,20200209,,0,"3,500",SG,mem,A,was,106,99,DNP,
+Brown Charlie,Brown,Charlie,Charlie Brown,5882,20200209,,0,"3,500",SG,atl,H,nyk,140,135,DNP,
+Mudiay Emmanuel,Mudiay,Emmanuel,Emmanuel Mudiay,4773,20200209,,0,"3,500",PG,uta,A,hou,114,113,DNP,
+Payton Gary,Payton,Gary,Gary Payton,4976,20200209,,0,"3,500",SG,was,H,mem,99,106,DNP,
+Dellavedova Matthew,Dellavedova,Matthew,Matthew Dellavedova,4610,20200209,,0,"3,500",PG,cle,H,lac,92,133,DNP,
+Trier Allonzo,Trier,Allonzo,Allonzo Trier,5701,20200209,,0,"3,500",SG,nyk,A,atl,135,140,NA,
+Beverley Patrick,Beverley,Patrick,Patrick Beverley,4234,20200209,,0,"4,800",PG,lac,A,cle,133,92,NA,
+Edwards Carsen,Edwards,Carsen,Carsen Edwards,5848,20200209,,0,"3,500",PG,bos,A,okc,112,111,NA,
+Mooney Matthew,Mooney,Matthew,Matthew Mooney,5840,20200209,,0,"3,500",PG,cle,H,lac,92,133,NA,
+Allen Grayson,Allen,Grayson,Grayson Allen,5677,20200209,,0,"3,500",SG,mem,A,was,106,99,NA,
+Roberson Andre,Roberson,Andre,Andre Roberson,4559,20200209,,0,"3,500",SG,okc,H,bos,111,112,NA,
+Williams-Goss Nigel,Williams-Goss,Nigel,Nigel Williams-Goss,5833,20200209,,0,"3,500",PG,uta,A,hou,114,113,NA,
+Butler Jimmy,Butler,Jimmy,Jimmy Butler,4363,20200209,,0,"7,800",SG,mia,A,por,109,115,NA,
+Windler Dylan,Windler,Dylan,Dylan Windler,5859,20200209,,0,"3,500",SG,cle,H,lac,92,133,NA,
+Dunn Kris,Dunn,Kris,Kris Dunn,4945,20200209,,0,"4,000",PG,chi,A,phi,111,118,NA,
+Herro Tyler,Herro,Tyler,Tyler Herro,5914,20200209,,0,"3,900",SG,mia,A,por,109,115,NA,
+Konchar John,Konchar,John,John Konchar,5839,20200209,,0,"3,500",SG,mem,A,was,106,99,NA,
+Wright-Foreman Justin,Wright-Foreman,Justin,Justin Wright-Foreman,5830,20200209,,0,"3,500",PG,uta,A,hou,114,113,NA,
+Allen Kadeem,Allen,Kadeem,Kadeem Allen,5113,20200209,,0,"3,500",SG,nyk,A,atl,135,140,NA,
+Mathews Garrison,Mathews,Garrison,Garrison Mathews,5872,20200209,,0,"3,500",SG,was,H,mem,99,106,NA,
+Shayok Marial,Shayok,Marial,Marial Shayok,5905,20200209,,0,"3,500",SG,phi,H,chi,118,111,NA,
+Smith Zhaire,Smith,Zhaire,Zhaire Smith,5779,20200209,,0,"3,500",SG,phi,H,chi,118,111,NA,
+Bembry DeAndre,Bembry,DeAndre,DeAndre Bembry,5001,20200209,,0,"3,500",SG,atl,H,nyk,140,135,NA,
+Waters Tremont,Waters,Tremont,Tremont Waters,5849,20200209,,0,"3,500",PG,bos,A,okc,112,111,NA,
+Randle Julius,Randle,Julius,Julius Randle,4680,20200209,1,61.1,"8,200",PF,nyk,A,atl,135,140,46.2,35pt 18rb 3as 1st 1bl 6to 13-25fg 9-12ft
+Collins John,Collins,John,John Collins,5134,20200209,1,58.7,"7,800",PF,atl,H,nyk,140,135,49.88,32pt 16rb 3as 1bl 1trey 12-19fg 7-9ft
+Hunter De'Andre,Hunter,De'Andre,De'Andre Hunter,5879,20200209,1,46.3,"4,100",SF,atl,H,nyk,140,135,47.88,19pt 9rb 1as 5st 3trey 7-15fg 2-3ft
+Ariza Trevor,Ariza,Trevor,Trevor Ariza,3621,20200209,1,45.3,"4,200",SF,por,H,mia,115,109,39.5,21pt 4rb 5as 3st 1bl 2trey 7-10fg 5-5ft
+Adebayo Bam,Adebayo,Bam,Bam Adebayo,5159,20200209,1,43.9,"8,000",PF,mia,A,por,109,115,35.12,13pt 12rb 7as 3bl 3to 6-14fg 1-2ft
+Crowder Jae,Crowder,Jae,Jae Crowder,4472,20200209,,43.7,"4,500",SF,mia,A,por,109,115,34.92,18pt 11rb 3as 2st 1bl 1to 5trey 6-11fg 1-2ft
+Tatum Jayson,Tatum,Jayson,Jayson Tatum,5111,20200209,1,39.7,"8,500",PF,bos,A,okc,112,111,34.75,26pt 11rb 1as 1bl 4to 4trey 10-19fg 2-4ft
+George Paul,George,Paul,Paul George,4283,20200209,1,38.2,"8,600",SF,lac,A,cle,133,92,24.2,22pt 6rb 4as 1st 1bl 3to 5trey 8-12fg 1-1ft
+Theis Daniel,Theis,Daniel,Daniel Theis,5114,20200209,1,33.7,"4,700",PF,bos,A,okc,112,111,30.45,13pt 11rb 5as 1trey 5-11fg 2-4ft
+Hayward Gordon,Hayward,Gordon,Gordon Hayward,4285,20200209,1,33,"6,700",SF,bos,A,okc,112,111,34.55,13pt 10rb 4as 1bl 1to 2trey 5-10fg 1-2ft
+Jackson Jaren,Jackson,Jaren,Jaren Jackson,5731,20200209,1,29.7,"6,400",PF,mem,A,was,106,99,30.2,14pt 11rb 1as 1bl 2to 1trey 6-16fg 1-2ft
+Gallinari Danilo,Gallinari,Danilo,Danilo Gallinari,4082,20200209,1,29.5,"5,800",SF,okc,H,bos,111,112,31.28,24pt 5rb 1as 2to 3trey 8-14fg 5-6ft
+Kornet Luke,Kornet,Luke,Luke Kornet,5240,20200209,1,29.4,"4,300",PF,chi,A,phi,111,118,29,25pt 2rb 1bl 1to 4trey 10-14fg 1-1ft
+Porter Kevin,Porter,Kevin,Kevin Porter,5861,20200209,,29.3,"4,300",SF,cle,H,lac,92,133,27.58,17pt 4rb 3as 1st 1trey 8-14fg 0-1ft
+Anderson Kyle,Anderson,Kyle,Kyle Anderson,4736,20200209,1,28,"4,300",SF,mem,A,was,106,99,29.8,16pt 5rb 2as 1st 7-9fg 2-2ft
+House Danuel,House,Danuel,Danuel House,4916,20200209,1,28,"5,200",SF,hou,H,uta,113,114,36.12,10pt 5rb 4st 2trey 3-10fg 2-2ft
+Hachimura Rui,Hachimura,Rui,Rui Hachimura,5868,20200209,1,26.7,"4,800",PF,was,H,mem,99,106,24.97,12pt 11rb 1as 1trey 5-13fg 1-2ft
+Morris Marcus,Morris,Marcus,Marcus Morris,4407,20200209,1,25.8,"6,000",SF,lac,A,cle,133,92,21.85,10pt 4rb 2as 3st 1to 5-12fg
+Love Kevin,Love,Kevin,Kevin Love,4074,20200209,1,25.8,"7,500",PF,cle,H,lac,92,133,25.77,10pt 9rb 2as 1st 1to 2trey 3-8fg 2-2ft
+Bertans Davis,Bertans,Davis,Davis Bertans,4989,20200209,,25.7,"5,600",PF,was,H,mem,99,106,31.75,15pt 6rb 1as 1st 1to 3trey 6-13fg
+Covington Robert,Covington,Robert,Robert Covington,4570,20200209,1,25,"6,000",PF,hou,H,uta,113,114,34.77,14pt 5rb 1st 1bl 1to 4trey 5-12fg
+Young Thaddeus,Young,Thaddeus,Thaddeus Young,4037,20200209,1,23,"5,700",PF,chi,A,phi,111,118,36.85,10pt 10rb 1st 2to 5-11fg
+Brown Jaylen,Brown,Jaylen,Jaylen Brown,5017,20200209,1,22.6,"6,400",SF,bos,A,okc,112,111,34.38,17pt 3rb 2as 1to 3trey 7-17fg
+Harris Tobias,Harris,Tobias,Tobias Harris,4412,20200209,1,22.6,"6,600",SF,phi,H,chi,118,111,30.48,14pt 3rb 4as 1to 2trey 5-9fg 2-2ft
+Hutchison Chandler,Hutchison,Chandler,Chandler Hutchison,5686,20200209,1,22.4,"4,700",SF,chi,A,phi,111,118,31.15,5pt 7rb 4as 1st 1trey 2-9fg 0-2ft
+Anthony Carmelo,Anthony,Carmelo,Carmelo Anthony,3510,20200209,1,21.2,"5,100",SF,por,H,mia,115,109,32.83,15pt 6rb 2as 4to 3trey 6-14fg 0-1ft
+Brown Jr. Troy,Brown,Jr. Troy,Jr. Troy Brown,5699,20200209,,20.5,"4,600",SF,was,H,mem,99,106,24.23,6pt 5rb 3as 2st 2to 3-8fg
+Coffey Amir,Coffey,Amir,Amir Coffey,5800,20200209,,20.3,"3,500",PF,lac,A,cle,133,92,24.52,10pt 4rb 1as 1st 1bl 2to 5-7fg 0-1ft
+Green JaMychal,Green,JaMychal,JaMychal Green,4581,20200209,,18.9,"3,600",PF,lac,A,cle,133,92,24.22,6pt 7rb 3as 1trey 2-7fg 1-2ft
+Ingles Joe,Ingles,Joe,Joe Ingles,4701,20200209,1,18.5,"4,500",SF,uta,A,hou,114,113,32.62,3pt 5rb 7as 1st 4to 1trey 1-2fg
+Horford Al,Horford,Al,Al Horford,3998,20200209,1,17.4,"5,700",PF,phi,H,chi,118,111,30.27,0pt 7rb 2as 2bl 0-6fg
+Bogdanovic Bojan,Bogdanovic,Bojan,Bojan Bogdanovic,4709,20200209,1,15.4,"5,700",SF,uta,A,hou,114,113,32.27,8pt 2rb 4as 1to 2trey 2-7fg 2-2ft
+Jones Derrick,Jones,Derrick,Derrick Jones,4941,20200209,1,14.6,"5,200",SF,mia,A,por,109,115,25.22,11pt 3rb 2trey 4-8fg 1-1ft
+Osman Cedi,Osman,Cedi,Cedi Osman,5116,20200209,1,14.3,"4,100",SF,cle,H,lac,92,133,24.98,7pt 4rb 1as 1st 2to 3-8fg 1-2ft
+Clarke Brandon,Clarke,Brandon,Brandon Clarke,5837,20200209,,14.2,"4,800",PF,mem,A,was,106,99,20.88,9pt 6rb 2to 1trey 4-10fg 0-2ft
+Noel Nerlens,Noel,Nerlens,Nerlens Noel,4652,20200209,,14,"4,600",PF,okc,H,bos,111,112,17.97,5pt 5rb 1bl 2-4fg 1-3ft
+O'Neale Royce,O'Neale,Royce,Royce O'Neale,5182,20200209,,13.6,"3,600",PF,uta,A,hou,114,113,19.13,3pt 3rb 3bl 2to 1trey 1-4fg
+McKinnie Alfonzo,McKinnie,Alfonzo,Alfonzo McKinnie,5230,20200209,,12.2,"3,500",SF,cle,H,lac,92,133,21.27,9pt 1rb 1st 1to 4-9fg 1-2ft
+Sefolosha Thabo,Sefolosha,Thabo,Thabo Sefolosha,3931,20200209,,11.6,"3,600",SF,hou,H,uta,113,114,10.27,2pt 3rb 1st 1bl 1-3fg
+Robinson III Glenn,Robinson,III Glenn,III Glenn Robinson,4702,20200209,,11.2,"4,000",SF,phi,H,chi,118,111,12.18,10pt 1rb 5-6fg
+Kabengele Mfiondu,Kabengele,Mfiondu,Mfiondu Kabengele,5803,20200209,,11.2,"3,500",SF,lac,A,cle,133,92,9.7,8pt 1rb 1st 1to 2trey 2-6fg 2-2ft
+Bonga Isaac,Bonga,Isaac,Isaac Bonga,5693,20200209,1,10.9,"3,600",SF,was,H,mem,99,106,17.13,4pt 2rb 1as 1st 0-3fg 4-4ft
+Silva Chris,Silva,Chris,Chris Silva,5913,20200209,,10.8,"3,500",PF,mia,A,por,109,115,12.67,4pt 4rb 2as 1to 2-6fg
+Gibson Taj,Gibson,Taj,Taj Gibson,4167,20200209,1,9.3,"3,600",PF,nyk,A,atl,135,140,15.87,4pt 4rb 1as 1to 2-3fg
+Thybulle Matisse,Thybulle,Matisse,Matisse Thybulle,5906,20200209,,8.7,"3,600",SF,phi,H,chi,118,111,18.13,6pt 1rb 1as 1trey 2-5fg 1-1ft
+Jackson Josh,Jackson,Josh,Josh Jackson,5130,20200209,,8.5,"3,800",SF,mem,A,was,106,99,13.92,3pt 5rb 1as 2to 1-4fg 1-3ft
+Scott Mike,Scott,Mike,Mike Scott,4488,20200209,,8.3,"3,500",PF,phi,H,chi,118,111,17.72,2pt 4rb 1as 1-4fg
+Niang Georges,Niang,Georges,Georges Niang,5015,20200209,,8.2,"3,500",PF,uta,A,hou,114,113,8.8,8pt 1rb 1to 2trey 3-5fg
+Motley Johnathan,Motley,Johnathan,Johnathan Motley,5192,20200209,,7.4,"3,500",PF,lac,A,cle,133,92,10.67,6pt 2rb 1to 3-4fg
+Morgan Juwan,Morgan,Juwan,Juwan Morgan,5835,20200209,,6.6,"3,500",PF,uta,A,hou,114,113,7.18,4pt 3rb 1to 2-3fg
+Fernando Bruno,Fernando,Bruno,Bruno Fernando,5881,20200209,,5.8,"3,500",PF,atl,H,nyk,140,135,8.77,2pt 4rb 1to 1-3fg
+Williams Grant,Williams,Grant,Grant Williams,5846,20200209,,5.4,"4,100",PF,bos,A,okc,112,111,14.2,3pt 2rb 1trey 1-1fg
+Knox Kevin,Knox,Kevin,Kevin Knox,5705,20200209,,5.2,"3,500",SF,nyk,A,atl,135,140,12.92,3pt 1rb 1bl 2to 1trey 1-5fg
+Nance Larry,Nance,Larry,Larry Nance,4798,20200209,,4.8,"5,800",PF,cle,H,lac,92,133,20.3,2pt 4rb 2to 1-6fg
+Carter Vince,Carter,Vince,Vince Carter,2448,20200209,,3.2,"3,700",SF,atl,H,nyk,140,135,2.53,2pt 1rb 1-2fg
+Nader Abdel,Nader,Abdel,Abdel Nader,5127,20200209,,3.2,"3,500",SF,okc,H,bos,111,112,4.63,2pt 1rb 0-1fg 2-2ft
+Bazley Darius,Bazley,Darius,Darius Bazley,5915,20200209,,3,"3,500",SF,okc,H,bos,111,112,3.22,3pt 1-2fg 1-2ft
+Swanigan Caleb,Swanigan,Caleb,Caleb Swanigan,5178,20200209,,2.9,"4,000",PF,por,H,mia,115,109,10.47,0pt 2rb 1as 1to
+Hezonja Mario,Hezonja,Mario,Mario Hezonja,4776,20200209,,1.5,"3,500",SF,por,H,mia,115,109,5.07,0pt 1as 0-2fg
+Gabriel Wenyen,Gabriel,Wenyen,Wenyen Gabriel,5715,20200209,,1.4,"3,500",PF,por,H,mia,115,109,7.35,0pt 2rb 1to 0-2fg
+Wade Dean,Wade,Dean,Dean Wade,5857,20200209,,1.2,"3,700",PF,cle,H,lac,92,133,3.68,0pt 1rb
+Pelle Norvel,Pelle,Norvel,Norvel Pelle,5904,20200209,,0,"3,500",PF,phi,H,chi,118,111,DNP,
+Howard William,Howard,William,William Howard,5831,20200209,,0,"3,500",SF,hou,H,uta,113,114,DNP,
+Bell Jordan,Bell,Jordan,Jordan Bell,5125,20200209,,0,"3,500",PF,mem,A,was,106,99,DNP,
+Muscala Mike,Muscala,Mike,Mike Muscala,4659,20200209,,0,"3,500",PF,okc,H,bos,111,112,DNP,
+Schofield Admiral,Schofield,Admiral,Admiral Schofield,5870,20200209,,0,"3,700",SF,was,H,mem,99,106,DNP,
+Hill Solomon,Hill,Solomon,Solomon Hill,4566,20200209,,0,"3,500",SF,mia,A,por,109,115,DNP,
+Patterson Patrick,Patterson,Patrick,Patrick Patterson,4302,20200209,,0,"3,500",PF,lac,A,cle,133,92,DNP,
+Ojeleye Semi,Ojeleye,Semi,Semi Ojeleye,5115,20200209,,0,"3,500",SF,bos,A,okc,112,111,DNP,
+Gafford Daniel,Gafford,Daniel,Daniel Gafford,5894,20200209,,0,"3,700",PF,chi,A,phi,111,118,DNP,
+Haslem Udonis,Haslem,Udonis,Udonis Haslem,3535,20200209,,0,"3,500",PF,mia,A,por,109,115,DNP,
+Little Nassir,Little,Nassir,Nassir Little,5937,20200209,,0,"3,500",SF,por,H,mia,115,109,DNP,
+Okpala KZ,Okpala,KZ,KZ Okpala,5910,20200209,,0,"3,500",SF,mia,A,por,109,115,DNP,
+Hartenstein Isaiah,Hartenstein,Isaiah,Isaiah Hartenstein,5746,20200209,,0,"3,600",PF,hou,H,uta,113,114,DNP,
+Hervey Kevin,Hervey,Kevin,Kevin Hervey,5956,20200209,,0,"3,500",SF,okc,H,bos,111,112,NA,
+Collins Zach,Collins,Zach,Zach Collins,5155,20200209,,0,"3,500",PF,por,H,mia,115,109,NA,
+Gordon Eric,Gordon,Eric,Eric Gordon,4077,20200209,,0,"4,700",SF,hou,H,uta,113,114,NA,
+Winslow Justise,Winslow,Justise,Justise Winslow,4787,20200209,,0,"4,300",SF,mem,A,was,106,99,NA,
+Wooten Kenny,Wooten,Kenny,Kenny Wooten,5875,20200209,,0,"3,500",PF,nyk,A,atl,135,140,NA,
+Reddish Cam,Reddish,Cam,Cam Reddish,5880,20200209,,0,"4,000",SF,atl,H,nyk,140,135,NA,
+Porter Otto,Porter,Otto,Otto Porter,4653,20200209,,0,"3,600",SF,chi,A,phi,111,118,NA,
+Caboclo Bruno,Caboclo,Bruno,Bruno Caboclo,4708,20200209,,0,"3,500",SF,hou,H,uta,113,114,NA,
+Hood Rodney,Hood,Rodney,Rodney Hood,4744,20200209,,0,"3,500",SF,por,H,mia,115,109,NA,
+Markkanen Lauri,Markkanen,Lauri,Lauri Markkanen,5227,20200209,,0,"3,500",PF,chi,A,phi,111,118,NA,
+Harkless Maurice,Harkless,Maurice,Maurice Harkless,4530,20200209,,0,"3,600",SF,nyk,A,atl,135,140,NA,
+Valentine Denzel,Valentine,Denzel,Denzel Valentine,4901,20200209,,0,"3,500",SF,chi,A,phi,111,118,NA,
+Strus Max,Strus,Max,Max Strus,5847,20200209,,0,"3,500",SF,chi,A,phi,111,118,NA,
+Williams Johnathan,Williams,Johnathan,Johnathan Williams,5695,20200209,,0,"3,700",PF,was,H,mem,99,106,NA,
+Roby Isaiah,Roby,Isaiah,Isaiah Roby,5919,20200209,,0,"3,500",PF,okc,H,bos,111,112,NA,
+Leonard Kawhi,Leonard,Kawhi,Kawhi Leonard,4404,20200209,,0,"9,500",PF,lac,A,cle,133,92,NA,
+Labissiere Skal,Labissiere,Skal,Skal Labissiere,4979,20200209,,0,"3,500",PF,atl,H,nyk,140,135,NA,
+Brazdeikis Ignas,Brazdeikis,Ignas,Ignas Brazdeikis,5876,20200209,,0,"3,500",SF,nyk,A,atl,135,140,NA,
+Hoard Jaylen,Hoard,Jaylen,Jaylen Hoard,5939,20200209,,0,"3,500",SF,por,H,mia,115,109,NA,
+Davis Ed,Davis,Ed,Ed Davis,4276,20200209,,0,"3,500",PF,uta,A,hou,114,113,NA,
+Brantley Jarrell,Brantley,Jarrell,Jarrell Brantley,5834,20200209,,0,"3,500",SF,uta,A,hou,114,113,NA,
+Embiid Joel,Embiid,Joel,Joel Embiid,4762,20200209,1,66.9,"9,300",C,phi,H,chi,118,111,30.82,28pt 12rb 5as 3st 4bl 4to 1trey 8-17fg 11-14ft
+Robinson Mitchell,Robinson,Mitchell,Mitchell Robinson,5700,20200209,,46.2,"5,000",C,nyk,A,atl,135,140,35.17,15pt 11rb 3st 3bl 7-8fg 1-3ft
+Drummond Andre,Drummond,Andre,Andre Drummond,4489,20200209,1,45.3,"10,300",C,cle,H,lac,92,133,28.98,19pt 14rb 3as 2st 1bl 4to 2trey 7-17fg 3-7ft
+Whiteside Hassan,Whiteside,Hassan,Hassan Whiteside,4324,20200209,1,44.4,"8,300",C,por,H,mia,115,109,35.15,11pt 17rb 1st 4bl 2to 3-8fg 5-8ft
+Harrell Montrezl,Harrell,Montrezl,Montrezl Harrell,4857,20200209,,36.3,"5,500",C,lac,A,cle,133,92,20.5,19pt 9rb 3as 1bl 1to 8-10fg 3-4ft
+Valanciunas Jonas,Valanciunas,Jonas,Jonas Valanciunas,4497,20200209,1,35.6,"7,000",C,mem,A,was,106,99,30,8pt 18rb 2bl 4-8fg 0-2ft
+Gobert Rudy,Gobert,Rudy,Rudy Gobert,4620,20200209,1,35,"7,900",C,uta,A,hou,114,113,36.93,12pt 15rb 1st 1bl 1to 3-6fg 6-8ft
+Wagner Moritz,Wagner,Moritz,Moritz Wagner,5780,20200209,,31.8,"3,900",C,was,H,mem,99,106,24.08,19pt 9rb 2as 1to 1trey 7-11fg 4-6ft
+Dedmon Dewayne,Dedmon,Dewayne,Dewayne Dedmon,4572,20200209,,30.6,"5,500",C,atl,H,nyk,140,135,32.68,10pt 8rb 5bl 4to 1trey 4-12fg 1-1ft
+Zubac Ivica,Zubac,Ivica,Ivica Zubac,4924,20200209,1,27.8,"5,200",C,lac,A,cle,133,92,16.83,8pt 4rb 4as 1st 2bl 4-4fg
+Portis Bobby,Portis,Bobby,Bobby Portis,4841,20200209,,23.2,"3,600",C,nyk,A,atl,135,140,18.78,14pt 6rb 2as 1to 2trey 5-11fg 2-2ft
+Felicio Cristiano,Felicio,Cristiano,Cristiano Felicio,4845,20200209,,22.4,"3,500",C,chi,A,phi,111,118,18.8,13pt 7rb 1st 2to 5-7fg 3-4ft
+Adams Steven,Adams,Steven,Steven Adams,4574,20200209,1,21.2,"4,800",C,okc,H,bos,111,112,30.03,4pt 11rb 2as 1bl 2to 2-10fg
+Tucker P.J.,Tucker,P.J.,P.J. Tucker,3871,20200209,1,18.6,"4,500",C,hou,H,uta,113,114,35.9,9pt 3rb 4as 3trey 3-5fg
+Kanter Enes,Kanter,Enes,Enes Kanter,4442,20200209,,16.6,"5,000",C,bos,A,okc,112,111,17.22,4pt 8rb 1st 1-3fg 2-2ft
+Thompson Tristan,Thompson,Tristan,Tristan Thompson,4380,20200209,,16.2,"4,900",C,cle,H,lac,92,133,19.02,7pt 6rb 2as 1to 1trey 2-6fg 2-2ft
+Mahinmi Ian,Mahinmi,Ian,Ian Mahinmi,3777,20200209,1,15.5,"4,600",C,was,H,mem,99,106,18.47,2pt 5rb 1as 2bl 0-5fg 2-4ft
+Olynyk Kelly,Olynyk,Kelly,Kelly Olynyk,4583,20200209,1,13.6,"3,900",C,mia,A,por,109,115,13.12,6pt 3rb 2as 1st 2to 1trey 2-4fg 1-1ft
+Jones Damian,Jones,Damian,Damian Jones,4933,20200209,1,7.8,"4,300",C,atl,H,nyk,140,135,14.62,0pt 4rb 1bl
+Bradley Tony,Bradley,Tony,Tony Bradley,5166,20200209,,5.6,"3,500",C,uta,A,hou,114,113,3.88,2pt 3rb 1-1fg
+Chandler Tyson,Chandler,Tyson,Tyson Chandler,3307,20200209,,0,"3,500",C,hou,H,uta,113,114,0.02,0pt
+Pasecniks Anzejs,Pasecniks,Anzejs,Anzejs Pasecniks,5957,20200209,,0,"3,700",C,was,H,mem,99,106,DNP,
+Dieng Gorgui,Dieng,Gorgui,Gorgui Dieng,4632,20200209,,0,"4,400",C,mem,A,was,106,99,DNP,
+Poirier Vincent,Poirier,Vincent,Vincent Poirier,5843,20200209,,0,"3,500",C,bos,A,okc,112,111,DNP,
+Brown Moses,Brown,Moses,Moses Brown,5936,20200209,,0,"3,500",C,por,H,mia,115,109,NA,
+Alexander Kyle,Alexander,Kyle,Kyle Alexander,5909,20200209,,0,"3,500",C,mia,A,por,109,115,NA,
+Bryant Thomas,Bryant,Thomas,Thomas Bryant,5217,20200209,,0,"5,100",C,was,H,mem,99,106,NA,
+Zizic Ante,Zizic,Ante,Ante Zizic,5119,20200209,,0,"3,600",C,cle,H,lac,92,133,NA,
+Capela Clint,Capela,Clint,Clint Capela,4766,20200209,,0,"7,400",C,atl,H,nyk,140,135,NA,
+Carter Jr. Wendell,Carter,Jr. Wendell,Jr. Wendell Carter,5685,20200209,,0,"3,500",C,chi,A,phi,111,118,NA,
+Fall Tacko,Fall,Tacko,Tacko Fall,5845,20200209,,0,"3,500",C,bos,A,okc,112,111,NA,
+Leonard Meyers,Leonard,Meyers,Meyers Leonard,4521,20200209,,0,"3,800",C,mia,A,por,109,115,NA,
+O'Quinn Kyle,O'Quinn,Kyle,Kyle O'Quinn,4529,20200209,,0,"3,700",C,phi,H,chi,118,111,NA,
+Williams Robert,Williams,Robert,Robert Williams,5660,20200209,,0,"3,500",C,bos,A,okc,112,111,NA,
+Newman Malik,Newman,Malik,Malik Newman,5718,20200209,,1, N/A ,NA,cle,H,lac,92,133,3.68,2pt 1to 0-2fg 2-2ft
