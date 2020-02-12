@@ -133,6 +133,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
   
 #### Next Steps:
   * Creating and launching a webapp to visualize predictions would be helpful for end users to use the insights
+  * Make predictions for All-NBA Team (PG, SG, SF, PF, C)
   
     
 #### Contributors:
