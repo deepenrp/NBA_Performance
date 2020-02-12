@@ -96,7 +96,7 @@ Pulp
       * Create a Heatmap
 
 #### Supervised Machine Learning Model
-  * Perform supervised regression ML analysis to predict win shares of all the current players (2019-2020):
+  * Perform supervised multi-linear regression ML analysis to predict win shares of all the current players (2019-2020):
   * Training and Validation using scikit learn module
     * Train –
       * Year 2015-2019
@@ -134,8 +134,8 @@ Fantasy Basketball is a fun game to play during the basketball season.Every fant
 
 
 #### Challenges/Limitations:
-  * Using more historical data to train was a challenge 
-  * The actual All-Star players may be selected based on some emotional bias than the statistics
+  * Using more historical data to train into the multi-linear regression model was a challenge.
+  * The actual All-Star players may be selected based on some emotional bias than the statistics.
 
   
 #### Next Steps:
