@@ -44,7 +44,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
       * Advanced Stats
       * Merge them into one and save as CSV
       
-      ![distribution.png](distribution.png)
+      ![distribution.png](Images/distribution.png)
       
     * 2019-2020 Season
       * Basic Stats
