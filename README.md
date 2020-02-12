@@ -37,6 +37,23 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 # Step 1: Win Shares
 
+# All the packages needed for this project
+```
+from pandas import DataFrame
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sb
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn import linear_model
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import plotly.graph_objects as go
+```
+
 #### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
     * 2015-2019 Seasons
