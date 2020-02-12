@@ -35,7 +35,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 ```
 
-# Win Shares
+# Step 1: Win Shares
 
 #### Data Collection:
   * Web Scrape from Basketball Reference (www.basketball-reference.com)
@@ -109,7 +109,7 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
     * Compare the predicted all-star starters with actual All-Star starters (All-star game - 2/16/2020)
 
 
-# NBA Fantasy
+# Step 2: NBA Fantasy
 #### Data Collection:
     * 2019-2020 Seasons
     
