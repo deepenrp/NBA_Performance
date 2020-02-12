@@ -1,6 +1,6 @@
 # NBA Performance
 
-How do we measure which player is better than the next? Or better question is how do we measure the overall success a player brings to their team? This will determine which player will eventually win the most valuable player award at the end of the season or make it to the All-Star team
+How do we measure which player success or make an assumpption that one player is better than the rest? Or better question is how do we measure the overall success a player brings to their team? This will determine which player will eventually win the most valuable player award at the end of the season or make it to the All-Star team
 
 According to Basketball-Reference, win shares is a metric that estimates the number of wins a player produces for his team throughout the season. We believe win shares is a very good indicator but how do we predict win shares and what is it based on - Personal Success? Or Basic stats like number of points you score, assist or rebound? Or Advances Stats like how well you contribute to the team? Or rather a combination of Basic and Advanced metrics?
 
