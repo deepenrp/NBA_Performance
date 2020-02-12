@@ -67,6 +67,30 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
   * Find the most important feature(s) to be used for the model
     * Random Forest Regression
+    ```
+      VORP: 0.8285404212518993
+      G_x: 0.06380038885382514
+      PER: 0.0186782592608807
+      BPM: 0.01807723677658762
+      TS%: 0.016132740946558193
+      TRB: 0.008268285038248831
+      PTS: 0.006065029406858381
+      STL%: 0.0059862467509281675
+      MP_x: 0.004177103796505039
+      FT%: 0.003677702839141312
+      FG%: 0.003576500074199313
+      AST: 0.0032318963860369417
+      USG%: 0.0027751805810590584
+      eFG%: 0.002460066294153274
+      ORB%: 0.0020797810811591755
+      DRB%: 0.0020229700506229076
+      TRB%: 0.002005456459413652
+      3P%: 0.0019891514999140296
+      BLK%: 0.0019057894086372037
+      Age_x: 0.0018462354155869777
+      BLK: 0.0013590939101316367
+      STL: 0.001344463917653198
+    ```
     * Correlation Matrix (Pearson R-Square Correlation)
       * Create a Heatmap
 
