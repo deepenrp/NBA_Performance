@@ -111,19 +111,22 @@ Plotly - Install in Python environment using "pip install plotly==4.5.0"
 
 # Step 2: NBA Fantasy
 #### Data Collection:
+    * http://rotoguru1.com/hoop/nba-dhd-2020
     * 2019-2020 Seasons
     
 #### Supervised Machine Learning Model
   * Training and Testing using scikit learn module
     * ElasticNet module
-  * Predictions
-    * Fan Duel Prediction
-    * Blocks
-    * Steal
-    * Point
-    * Rebound
-    * Turnover
     
+  * Predictions
+    * Fan Duel Point (FDP) 
+    * Blocks
+    * Steals
+    * Points
+    * Rebounds
+    * Turnovers
+    * Assists
+       
 
 
 #### Challenges/Limitations:
