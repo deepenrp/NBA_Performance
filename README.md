@@ -145,7 +145,7 @@ Fantasy Basketball is a fun game to play during the basketball season.Every fant
   * Make predictions for All-NBA Team (PG, SG, SF, PF, C)
   * Improve the collection (web Scrapping) of daily games/players
   * Improve the current prediction model and test other models
-  * Create a Web interface and allow selection of players through the user interface
+  * Create a Web interface and allow selection of players for the webapp
   * Include a list of active Injured players to the model
     
 #### Contributors:
