@@ -136,6 +136,8 @@ Fantasy Basketball is a fun game to play during the basketball season.Every fant
 #### Challenges/Limitations:
   * Using more historical data to train into the multi-linear regression model was a challenge.
   * The actual All-Star players may be selected based on some emotional bias than the statistics.
+  * Define features and model for the Fantasy Duel analysis was really challenging
+  * The short time to do Exploratory analysis and adjust the model
 
   
 #### Next Steps:
