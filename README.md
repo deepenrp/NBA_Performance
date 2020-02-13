@@ -1,4 +1,4 @@
-# NBA Performance
+# NBA Player Performance
 
 How do we measure a player success or make an assumpption that one player is better than the rest? Or better question is how do we measure the overall success a player brings to their team? This will determine which player will eventually win the most valuable player award at the end of the season or make it to the All-Star team
 
@@ -136,12 +136,17 @@ Fantasy Basketball is a fun game to play during the basketball season.Every fant
 #### Challenges/Limitations:
   * Using more historical data to train into the multi-linear regression model was a challenge.
   * The actual All-Star players may be selected based on some emotional bias than the statistics.
+  * Define features and model for the Fantasy Duel analysis was really challenging
+  * The short time to do Exploratory analysis and adjust the model
 
   
 #### Next Steps:
   * Creating and launching a webapp to visualize predictions would be helpful for end users to use the insights
   * Make predictions for All-NBA Team (PG, SG, SF, PF, C)
-  
+  * Improve the collection (web Scrapping) of daily games/players
+  * Improve the current prediction model and test other models
+  * Create a Web interface and allow selection of players for the webapp
+  * Include a list of active Injured players to the model
     
 #### Contributors:
   * Sai
