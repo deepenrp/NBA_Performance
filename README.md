@@ -143,7 +143,10 @@ Fantasy Basketball is a fun game to play during the basketball season.Every fant
 #### Next Steps:
   * Creating and launching a webapp to visualize predictions would be helpful for end users to use the insights
   * Make predictions for All-NBA Team (PG, SG, SF, PF, C)
-  
+  * Improve the collection (web Scrapping) of daily games/players
+  * Improve the current prediction model and test other models
+  * Create a Web interface and allow selection of players through the user interface
+  * Include a list of active Injured players to the model
     
 #### Contributors:
   * Sai
