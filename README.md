@@ -1,4 +1,4 @@
-# NBA Performance
+# NBA Player Performance
 
 How do we measure a player success or make an assumpption that one player is better than the rest? Or better question is how do we measure the overall success a player brings to their team? This will determine which player will eventually win the most valuable player award at the end of the season or make it to the All-Star team
 
